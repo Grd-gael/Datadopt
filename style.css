@@ -1,0 +1,78 @@
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+}
+
+:root {
+    --white: #fff;
+    --black: #000;
+    --lightblue: #6BC7C6;
+    --darkblue: #799DD0;
+    --purple: #BBB4D8;
+    --lightpurple: #DAD4DE;
+    --ivoire: #F4F0E3;
+
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: var(--darkblue);
+}
+
+
+.home-screen {
+    display: flex;
+    flex-direction: column;
+    gap: 0.2rem;
+    justify-content: center;
+    align-items: center;
+    height: 100dvh;
+    background-color: var(--lightblue);
+}
+
+h1 {
+    margin: 0;
+    color: var(--ivoire);
+    font-family: "Kodchasan", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 8.5rem;
+}
+
+h2 {
+    margin:0;
+    color: var(--ivoire);
+    font-family: "Metrophobic", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 2rem;  
+    padding-left: 500px;
+}
+
+.section1{
+    background-color: var(--white);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    height: 100vh;
+}
+
+span.nomber{
+    font-size: 7rem;
+    font-family: "Kodchasan", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    color: var(--lightblue);
+}
+
+p{
+    font-size: 2rem;
+    font-family: "Metrophobic", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: var(--darkblue);
+    width: 30vw;
+}
