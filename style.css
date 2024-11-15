@@ -29,16 +29,26 @@ body {
     justify-content: center;
     align-items: center;
     height: 100dvh;
-    background-color: var(--lightblue);
+    background-image: url(img/Fond-nuageux.jpg);
+    background-position: center;
+    background-size:cover;
+    background-repeat: no-repeat;
 }
 
 h1 {
+    position: relative;
     margin: 0;
     color: var(--ivoire);
     font-family: "Kodchasan", sans-serif;
     font-weight: 200;
     font-style: normal;
     font-size: 8.5rem;
+}
+
+.ourson-titre{
+    position:absolute;
+    bottom: 47dvh;
+    left: 57vw;
 }
 
 h2 {
