@@ -29,7 +29,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100dvh;
-    background-image: url('/img/fond-nuageux.jpg');
+    background-image: url(img/fond-nuageux.jpg);
     background-position: center;
     background-size:cover;
     background-repeat: no-repeat;
