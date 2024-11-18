@@ -34,23 +34,13 @@ body {
     background-size:cover;
     background-repeat: no-repeat;
 }
-
-h1 {
-    position: relative;
+h1{
     margin: 0;
-    color: var(--ivoire);
-    font-family: "Kodchasan", sans-serif;
-    font-weight: 200;
-    font-style: normal;
-    font-size: 8.5rem;
 }
 
-.ourson-titre{
-    position:absolute;
-    bottom: 47dvh;
-    left: 57vw;
+img.logo-titre{
+    width: 821px;
 }
-
 h2 {
     margin:0;
     color: var(--ivoire);
@@ -58,20 +48,48 @@ h2 {
     font-weight: 400;
     font-style: normal;
     font-size: 2rem;  
-    padding-left: 500px;
+    padding-left: 561px;
+    bottom: 30px;
+    position: relative;
 }
+
+@media screen and (max-width: 950px){
+    img{
+        width: 500px;
+    }
+
+    h2{
+        font-size: 1.4rem;
+        padding-left: 300px;
+    }
+    
+}
+
+@media screen and (max-width: 600px){
+    img{
+        width: 300px;
+    }
+
+    h2{
+        font-size: 1rem;
+        padding-left: 165px;
+    }
+}
+
+
 
 .section1{
     background-color: var(--white);
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content:center;
+    gap: 8vw;
     align-items: center;
     height: 100vh;
 }
 
 span.nomber{
-    font-size: 7rem;
+    font-size: 8rem;
     font-family: "Kodchasan", sans-serif;
     font-weight: 200;
     font-style: normal;
