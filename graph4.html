@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Graphique 4</title>
+</head>
+<body>
+    <div id="selection">
+        <div class="slidecontainer">
+            <input type="range" min="2012" max="2022" value="2004" class="slider" id="range">
+          </div>
+        <button id="acc">Pays d'accueil</button>
+        <button id="ori">Pays d'origine</button>
+    </div>
+
+    <div>
+        <canvas id="chart"></canvas>
+    </div>
+
+    <h1>En <span id="txt-annee"></span></h1>
+    <div id="texte"></div>
+
+<script src=" https://cdn.jsdelivr.net/npm/chart.js@4.4.6/dist/chart.umd.min.js "></script>
+    <script src="graph4.js"></script>
+    
+</body>
+</html>
