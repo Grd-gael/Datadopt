@@ -7,10 +7,11 @@
 :root {
     --white: #fff;
     --black: #000;
-    --lightblue: #6BC7C6;
-    --darkblue: #799DD0;
-    --purple: #BBB4D8;
-    --lightpurple: #DAD4DE;
+    --lightblue: #3FBEBE;
+    --blue: #3E7ED2;
+    --darkblue: #123E82;
+    --purple: #6D65B2;
+    --lightpurple: #A092CD;
     --ivoire: #F4F0E3;
 
 }
@@ -162,6 +163,7 @@ p{
     font-weight: 400;
     font-style: normal;
     font-size: 1.5rem;
+    color: var(--ivoire);
     z-index: 200;
     position: fixed;
     display: flex;
@@ -171,7 +173,20 @@ p{
     bottom: 0;
     left: 25%;
     width: 50%;
-    background-color: var(--purple);
+    background-color: var(--lightpurple);
+}
+
+.sr-only {
+    border: 0 !important;
+    clip: rect(1px, 1px, 1px, 1px) !important;
+    -webkit-clip-path: inset(50%) !important;
+            clip-path: inset(50%) !important;
+    height: 1px !important;
+    overflow: hidden !important;
+    padding: 0 !important;
+    position: absolute !important;
+    width: 1px !important;
+    white-space: nowrap !important;
 }
 
 input[type=range] {
@@ -264,12 +279,12 @@ input[type=range] {
 .range-value {
     z-index: 190;
     position: absolute;
-    top: -60px;
+    top: -70px;
     font-family: "Metrophobic", sans-serif;
     font-weight: 400;
     font-style: normal; 
     font-size: 2rem;
-    background-color: var(--purple);
+    background-color: var(--lightpurple);
     border-radius: 50px;
     width: 100px;
     height: 100px;
@@ -295,6 +310,14 @@ span.nomber{
     font-weight: 200;
     font-style: normal;
     color: var(--lightblue);
+}
+
+span.indication{
+    font-size: 1rem;
+    font-family: "Metrophobic", sans-serif;
+    font-weight: 400;
+    font-style: normal; 
+    color: var(--blue);
 }
 
 .p-section1{
@@ -361,6 +384,38 @@ img.transition{
     }
 }
 
+
+
+/* ---- Interractive Map ---- */
+
+.map{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    height: 100vh;
+    background-color: var(--darkblue);
+}
+
+.info-departement{
+    color: var(--ivoire);
+    font-family: "Metrophobic", sans-serif;
+    font-weight: 400;
+    font-style: normal; 
+    font-size: 1.5rem;
+    position: absolute;
+    display: none;
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 5px;
+    border-radius: 5px;
+    z-index: 300;
+}
+
+.map>svg>path{
+    fill: var(--blue);
+    stroke: var(--darkblue);
+    transition: fill 0.3s;
+}
 
 /* ---- Chargement ---- */
 
