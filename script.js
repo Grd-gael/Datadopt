@@ -16,7 +16,7 @@ let NbrAdoption;
 
 fetch('data-departement.json').then(response => response.json()).then(function (data) {
     DataDepartement = data;
-    console.log(DataDepartement);
+    InitSomme(DataDepartement);
     UpdateMap(DataDepartement);
 });
 
@@ -29,12 +29,70 @@ RangeValue.innerHTML = range.value;
 range.addEventListener('input', (e) => {
     RangeValue.innerHTML = range.value;
     CurrentYear = range.value;
+    UpdateYear(DataDepartement);
     UpdateMap(DataDepartement);
 });
+
+range.addEventListener('change', (e) => {
+    UpdateSomme(DataDepartement);
+});
+
+const section1Number = document.querySelector('.section1-number');
+const section1Year = document.querySelector('.section1-year');
 
 
 const Departement = document.querySelectorAll('.map>svg>path');
 const InfoDepartement = document.getElementById('info-departement');
+
+
+function AnimNumber(balise, nombre){
+    if (parseInt(balise.innerHTML) >= nombre){
+        const interval = setInterval(() => {
+            if (parseInt(balise.innerHTML) > nombre){
+                balise.innerHTML = parseInt(balise.innerHTML) - 1;
+            } else {
+                clearInterval(interval);
+            }
+        }, 100);
+    }
+    else if (parseInt(balise.innerHTML) < nombre){
+        const interval = setInterval(() => {
+            if (parseInt(balise.innerHTML) < nombre){
+                balise.innerHTML = parseInt(balise.innerHTML) + 1;
+            } else {
+                clearInterval(interval);
+            }
+        }, 90);
+    }
+}
+
+function InitSomme(data){
+    let sommeAdoptions= 0;
+    data.forEach(dep => {
+        if (dep.annee == CurrentYear){
+            sommeAdoptions++;
+        }
+    })
+    section1Number.innerHTML=sommeAdoptions;
+    section1Year.innerHTML=CurrentYear;
+}
+
+
+
+function UpdateSomme(data){
+    let sommeAdoptions= 0;
+    data.forEach(dep => {
+        if (dep.annee == CurrentYear){
+            sommeAdoptions++
+        }
+    })
+    // console.log(parseInt(section1Number.innerHTML)+2);
+    AnimNumber(section1Number, sommeAdoptions);
+}
+
+function UpdateYear(){
+    section1Year.innerHTML=CurrentYear;
+}
 
 
 function UpdateMap(data) {
