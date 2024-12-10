@@ -1,0 +1,6680 @@
+[
+    {
+      "id": "01",
+      "departement": "Ain",
+      "nbr-adoption": 9,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": "02",
+      "departement": "Aisne",
+      "nbr-adoption": 5,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": "03",
+      "departement": "Allier",
+      "nbr-adoption": 11,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": "04",
+      "departement": "Alpes de Haute-Provence",
+      "nbr-adoption": 3,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": "06",
+      "departement": "Alpes-Maritimes",
+      "nbr-adoption": 14,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": "07",
+      "departement": "Ardêche",
+      "nbr-adoption": 11,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": "08",
+      "departement": "Ardennes",
+      "nbr-adoption": 0,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": "09",
+      "departement": "Ariège",
+      "nbr-adoption": 3,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 10,
+      "departement": "Aube",
+      "nbr-adoption": 0,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 11,
+      "departement": "Aude",
+      "nbr-adoption": 3,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 12,
+      "departement": "Aveyron",
+      "nbr-adoption": 10,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 67,
+      "departement": "Bas-Rhin",
+      "nbr-adoption": 16,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 13,
+      "departement": "Bouches-du-Rhône",
+      "nbr-adoption": 53,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 14,
+      "departement": "Calvados",
+      "nbr-adoption": 7,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 15,
+      "departement": "Cantal",
+      "nbr-adoption": 1,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 16,
+      "departement": "Charente",
+      "nbr-adoption": 6,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 17,
+      "departement": "Charente-Maritime",
+      "nbr-adoption": 12,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 18,
+      "departement": "Cher",
+      "nbr-adoption": 8,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 19,
+      "departement": "Corrèze",
+      "nbr-adoption": 10,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": "2A",
+      "departement": "Corse-du-Sud",
+      "nbr-adoption": 0,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 21,
+      "departement": "Côte-d'Or",
+      "nbr-adoption": 8,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 22,
+      "departement": "Côtes d'Armor",
+      "nbr-adoption": 12,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 23,
+      "departement": "Creuse",
+      "nbr-adoption": 5,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 79,
+      "departement": "Deux-Sèvres",
+      "nbr-adoption": 7,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 24,
+      "departement": "Dordogne",
+      "nbr-adoption": 1,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 25,
+      "departement": "Doubs",
+      "nbr-adoption": 11,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 26,
+      "departement": "Drôme",
+      "nbr-adoption": 13,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 91,
+      "departement": "Essonne",
+      "nbr-adoption": 29,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 27,
+      "departement": "Eure",
+      "nbr-adoption": 10,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 28,
+      "departement": "Eure-et-Loir",
+      "nbr-adoption": 9,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 29,
+      "departement": "Finistère",
+      "nbr-adoption": 29,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 30,
+      "departement": "Gard",
+      "nbr-adoption": 22,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 32,
+      "departement": "Gers",
+      "nbr-adoption": 7,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 33,
+      "departement": "Gironde",
+      "nbr-adoption": 30,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 68,
+      "departement": "Haut-Rhin",
+      "nbr-adoption": 11,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": "2B",
+      "departement": "Haute-Corse",
+      "nbr-adoption": 2,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 31,
+      "departement": "Haute-Garonne",
+      "nbr-adoption": 41,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 43,
+      "departement": "Haute-Loire",
+      "nbr-adoption": 6,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 52,
+      "departement": "Haute-Marne",
+      "nbr-adoption": 4,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 70,
+      "departement": "Haute-Saône",
+      "nbr-adoption": 5,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 74,
+      "departement": "Haute-Savoie",
+      "nbr-adoption": 11,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 87,
+      "departement": "Haute-Vienne",
+      "nbr-adoption": 4,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": "05",
+      "departement": "Hautes-Alpes",
+      "nbr-adoption": 4,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 65,
+      "departement": "Hautes-Pyrénées",
+      "nbr-adoption": 5,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 92,
+      "departement": "Hauts-de-Seine",
+      "nbr-adoption": 60,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 34,
+      "departement": "Hérault",
+      "nbr-adoption": 23,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 35,
+      "departement": "Îlle-et-Vilaine",
+      "nbr-adoption": 26,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 36,
+      "departement": "Indre",
+      "nbr-adoption": 2,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 37,
+      "departement": "Indre-et-Loire",
+      "nbr-adoption": 9,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 38,
+      "departement": "Isère",
+      "nbr-adoption": 22,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 39,
+      "departement": "Jura",
+      "nbr-adoption": 5,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 40,
+      "departement": "Landes",
+      "nbr-adoption": 6,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 41,
+      "departement": "Loir-et-Cher",
+      "nbr-adoption": 6,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 42,
+      "departement": "Loire",
+      "nbr-adoption": 15,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 44,
+      "departement": "Loire-Atlantique",
+      "nbr-adoption": 51,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 45,
+      "departement": "Loiret",
+      "nbr-adoption": 18,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 46,
+      "departement": "Lot",
+      "nbr-adoption": 8,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 47,
+      "departement": "Lot-et-Garonne",
+      "nbr-adoption": 10,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 48,
+      "departement": "Lozère",
+      "nbr-adoption": 1,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 49,
+      "departement": "Maine-et-Loire",
+      "nbr-adoption": 28,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 50,
+      "departement": "Manche",
+      "nbr-adoption": 8,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 51,
+      "departement": "Marne",
+      "nbr-adoption": 8,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 53,
+      "departement": "Mayenne",
+      "nbr-adoption": 15,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 54,
+      "departement": "Meurthe-et-Moselle",
+      "nbr-adoption": 12,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 55,
+      "departement": "Meuse",
+      "nbr-adoption": 1,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 56,
+      "departement": "Morbihan",
+      "nbr-adoption": 22,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 57,
+      "departement": "Moselle",
+      "nbr-adoption": 8,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 58,
+      "departement": "Nièvre",
+      "nbr-adoption": 4,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 59,
+      "departement": "Nord",
+      "nbr-adoption": 47,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 60,
+      "departement": "Oise",
+      "nbr-adoption": 14,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 61,
+      "departement": "Orne",
+      "nbr-adoption": 9,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 75,
+      "departement": "Paris",
+      "nbr-adoption": 83,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 62,
+      "departement": "Pas-de-Calais",
+      "nbr-adoption": 17,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 63,
+      "departement": "Puy-de-Dôme",
+      "nbr-adoption": 17,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 64,
+      "departement": "Pyrénées-Atlantiques",
+      "nbr-adoption": 10,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 66,
+      "departement": "Pyrénées-Orientales",
+      "nbr-adoption": 3,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 69,
+      "departement": "Rhône",
+      "nbr-adoption": 51,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 71,
+      "departement": "Saône-et-Loire",
+      "nbr-adoption": 7,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 72,
+      "departement": "Sarthe",
+      "nbr-adoption": 19,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 73,
+      "departement": "Savoie",
+      "nbr-adoption": 9,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 77,
+      "departement": "Seine-et-Marne",
+      "nbr-adoption": 18,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 76,
+      "departement": "Seine-Maritime",
+      "nbr-adoption": 9,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 93,
+      "departement": "Seine-Saint-Denis",
+      "nbr-adoption": 25,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 80,
+      "departement": "Somme",
+      "nbr-adoption": 6,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 81,
+      "departement": "Tarn",
+      "nbr-adoption": 2,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 82,
+      "departement": "Tarn-et-Garonne",
+      "nbr-adoption": 3,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 90,
+      "departement": "Territoire-de-Belfort",
+      "nbr-adoption": 6,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 95,
+      "departement": "Val-d'Oise",
+      "nbr-adoption": 8,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 94,
+      "departement": "Val-de-Marne",
+      "nbr-adoption": 19,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 83,
+      "departement": "Var",
+      "nbr-adoption": 18,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 84,
+      "departement": "Vaucluse",
+      "nbr-adoption": 8,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 85,
+      "departement": "Vendée",
+      "nbr-adoption": 17,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 86,
+      "departement": "Vienne",
+      "nbr-adoption": 13,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 88,
+      "departement": "Vosges",
+      "nbr-adoption": 6,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 89,
+      "departement": "Yonne",
+      "nbr-adoption": 10,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": 78,
+      "departement": "Yvelines",
+      "nbr-adoption": 31,
+      "annee": 2013,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2013_cle8aa2a3.pdf#page=14"
+    },
+    {
+      "id": "01",
+      "departement": "AIN",
+      "nbr-adoption": 7,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": "02",
+      "departement": "AISNE",
+      "nbr-adoption": 2,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": "03",
+      "departement": "ALLIER",
+      "nbr-adoption": 3,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": "04",
+      "departement": "ALPES DE HAUTE PROVENCE",
+      "nbr-adoption": 7,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": "06",
+      "departement": "ALPES MARITIMES",
+      "nbr-adoption": 16,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": "07",
+      "departement": "ARDECHE",
+      "nbr-adoption": 3,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": "08",
+      "departement": "ARDENNES",
+      "nbr-adoption": 1,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 10,
+      "departement": "AUBE",
+      "nbr-adoption": 2,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 12,
+      "departement": "AVEYRON",
+      "nbr-adoption": 9,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 67,
+      "departement": "BAS RHIN",
+      "nbr-adoption": 8,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 13,
+      "departement": "BOUCHES-DU-RHONE",
+      "nbr-adoption": 45,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 14,
+      "departement": "CALVADOS",
+      "nbr-adoption": 11,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 15,
+      "departement": "CANTAL",
+      "nbr-adoption": 2,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 16,
+      "departement": "CHARENTE",
+      "nbr-adoption": 7,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 17,
+      "departement": "CHARENTE-MARITIME",
+      "nbr-adoption": 9,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 18,
+      "departement": "CHER",
+      "nbr-adoption": 4,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 19,
+      "departement": "CORREZE",
+      "nbr-adoption": 12,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": "2A",
+      "departement": "CORSE DU SUD",
+      "nbr-adoption": 1,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 21,
+      "departement": "COTE-D'OR",
+      "nbr-adoption": 10,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 22,
+      "departement": "COTES D'ARMOR",
+      "nbr-adoption": 10,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 79,
+      "departement": "DEUX-SEVRES",
+      "nbr-adoption": 7,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 24,
+      "departement": "DORDOGNE",
+      "nbr-adoption": 9,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 25,
+      "departement": "DOUBS",
+      "nbr-adoption": 6,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 26,
+      "departement": "DROME",
+      "nbr-adoption": 6,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 91,
+      "departement": "ESSONNE",
+      "nbr-adoption": 26,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 27,
+      "departement": "EURE",
+      "nbr-adoption": 11,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 28,
+      "departement": "EURE-ET-LOIR",
+      "nbr-adoption": 14,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 29,
+      "departement": "FINISTERE",
+      "nbr-adoption": 30,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 30,
+      "departement": "GARD",
+      "nbr-adoption": 11,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 32,
+      "departement": "GERS",
+      "nbr-adoption": 6,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 33,
+      "departement": "GIRONDE",
+      "nbr-adoption": 16,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 973,
+      "departement": "GUYANE",
+      "nbr-adoption": 3,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 68,
+      "departement": "HAUT-RHIN",
+      "nbr-adoption": 6,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": "2B",
+      "departement": "HAUTE-CORSE",
+      "nbr-adoption": 2,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 31,
+      "departement": "HAUTE-GARONNE",
+      "nbr-adoption": 27,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 43,
+      "departement": "HAUTE-LOIRE",
+      "nbr-adoption": 9,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 52,
+      "departement": "HAUTE-MARNE",
+      "nbr-adoption": 3,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 70,
+      "departement": "HAUTE-SAONE",
+      "nbr-adoption": 4,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 74,
+      "departement": "HAUTE-SAVOIE",
+      "nbr-adoption": 5,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 87,
+      "departement": "HAUTE-VIENNE",
+      "nbr-adoption": 3,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": "05",
+      "departement": "HAUTES-ALPES",
+      "nbr-adoption": 7,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 65,
+      "departement": "HAUTES-PYRENEES",
+      "nbr-adoption": 2,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 92,
+      "departement": "HAUTS-DE-SEINE",
+      "nbr-adoption": 32,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 34,
+      "departement": "HERAULT",
+      "nbr-adoption": 16,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 35,
+      "departement": "ILLE-ET-VILAINE",
+      "nbr-adoption": 23,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 36,
+      "departement": "INDRE",
+      "nbr-adoption": 1,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 37,
+      "departement": "INDRE-ET-LOIRE",
+      "nbr-adoption": 9,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 38,
+      "departement": "ISERE",
+      "nbr-adoption": 13,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 39,
+      "departement": "JURA",
+      "nbr-adoption": 6,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 40,
+      "departement": "LANDES",
+      "nbr-adoption": 10,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 41,
+      "departement": "LOIR-ET-CHER",
+      "nbr-adoption": 4,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 42,
+      "departement": "LOIRE",
+      "nbr-adoption": 16,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 44,
+      "departement": "LOIRE-ATLANTIQUE",
+      "nbr-adoption": 39,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 45,
+      "departement": "LOIRET",
+      "nbr-adoption": 10,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 46,
+      "departement": "LOT",
+      "nbr-adoption": 6,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 47,
+      "departement": "LOT-ET-GARONNE",
+      "nbr-adoption": 2,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 48,
+      "departement": "LOZERE",
+      "nbr-adoption": 1,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 49,
+      "departement": "MAINE-ET-LOIRE",
+      "nbr-adoption": 21,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 50,
+      "departement": "MANCHE",
+      "nbr-adoption": 8,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 972,
+      "departement": "MARTINIQUE",
+      "nbr-adoption": 2,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 53,
+      "departement": "MAYENNE",
+      "nbr-adoption": 5,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 54,
+      "departement": "MEURTHE-ET-MOSELLE",
+      "nbr-adoption": 12,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 55,
+      "departement": "MEUSE",
+      "nbr-adoption": 4,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 56,
+      "departement": "MORBIHAN",
+      "nbr-adoption": 20,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 57,
+      "departement": "MOSELLE",
+      "nbr-adoption": 12,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 59,
+      "departement": "NORD",
+      "nbr-adoption": 34,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 60,
+      "departement": "OISE",
+      "nbr-adoption": 10,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 61,
+      "departement": "ORNE",
+      "nbr-adoption": 6,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 75,
+      "departement": "PARIS",
+      "nbr-adoption": 65,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 62,
+      "departement": "PAS-DE-CALAIS",
+      "nbr-adoption": 4,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 63,
+      "departement": "PUY-DE-DOME",
+      "nbr-adoption": 16,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 64,
+      "departement": "PYRENEES-ATLANTIQUES",
+      "nbr-adoption": 14,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 66,
+      "departement": "PYRENEES-ORIENTALES",
+      "nbr-adoption": 2,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 974,
+      "departement": "REUNION",
+      "nbr-adoption": 1,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 69,
+      "departement": "RHONE",
+      "nbr-adoption": 46,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 71,
+      "departement": "SAONE-ET-LOIRE",
+      "nbr-adoption": 2,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 72,
+      "departement": "SARTHE",
+      "nbr-adoption": 6,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 73,
+      "departement": "SAVOIE",
+      "nbr-adoption": 9,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 77,
+      "departement": "SEINE-ET-MARNE",
+      "nbr-adoption": 14,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 76,
+      "departement": "SEINE-MARITIME",
+      "nbr-adoption": 5,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 93,
+      "departement": "SEINE-SAINT-DENIS",
+      "nbr-adoption": 10,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 80,
+      "departement": "SOMME",
+      "nbr-adoption": 4,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 81,
+      "departement": "TARN",
+      "nbr-adoption": 6,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 82,
+      "departement": "TARN-ET-GARONNE",
+      "nbr-adoption": 6,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 90,
+      "departement": "TERRITOIRE DE BELFORT",
+      "nbr-adoption": 2,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 95,
+      "departement": "VAL-D'OISE",
+      "nbr-adoption": 11,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 94,
+      "departement": "VAL-DE-MARNE",
+      "nbr-adoption": 23,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 83,
+      "departement": "VAR",
+      "nbr-adoption": 20,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 84,
+      "departement": "VAUCLUSE",
+      "nbr-adoption": 10,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 85,
+      "departement": "VENDEE",
+      "nbr-adoption": 23,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 86,
+      "departement": "VIENNE",
+      "nbr-adoption": 16,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 88,
+      "departement": "VOSGES",
+      "nbr-adoption": 5,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 89,
+      "departement": "YONNE",
+      "nbr-adoption": 7,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": 78,
+      "departement": "YVELINES",
+      "nbr-adoption": 18,
+      "annee": 2014,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2014_cle819569.pdf#page=11"
+    },
+    {
+      "id": "01",
+      "departement": "AIN",
+      "nbr-adoption": 6,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": "02",
+      "departement": "AISNE",
+      "nbr-adoption": 3,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": "03",
+      "departement": "ALLIER",
+      "nbr-adoption": 5,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": "04",
+      "departement": "ALPES DE HAUTE PROVENCE",
+      "nbr-adoption": 5,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": "06",
+      "departement": "ALPES MARITIMES",
+      "nbr-adoption": 11,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": "07",
+      "departement": "ARDECHE",
+      "nbr-adoption": 6,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": "08",
+      "departement": "ARDENNES",
+      "nbr-adoption": 3,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": "09",
+      "departement": "ARIEGE",
+      "nbr-adoption": 1,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 11,
+      "departement": "AUDE",
+      "nbr-adoption": 1,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 12,
+      "departement": "AVEYRON",
+      "nbr-adoption": 6,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 67,
+      "departement": "BAS RHIN",
+      "nbr-adoption": 9,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 13,
+      "departement": "BOUCHES-DU-RHONE",
+      "nbr-adoption": 24,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 14,
+      "departement": "CALVADOS",
+      "nbr-adoption": 10,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 15,
+      "departement": "CANTAL",
+      "nbr-adoption": 4,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 16,
+      "departement": "CHARENTE",
+      "nbr-adoption": 6,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 17,
+      "departement": "CHARENTE-MARITIME",
+      "nbr-adoption": 2,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 18,
+      "departement": "CHER",
+      "nbr-adoption": 5,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 19,
+      "departement": "CORREZE",
+      "nbr-adoption": 8,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": "2A",
+      "departement": "CORSE DU SUD",
+      "nbr-adoption": 1,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 21,
+      "departement": "COTE-D'OR",
+      "nbr-adoption": 4,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 22,
+      "departement": "COTES D'ARMOR",
+      "nbr-adoption": 9,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 79,
+      "departement": "DEUX-SEVRES",
+      "nbr-adoption": 5,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 24,
+      "departement": "DORDOGNE",
+      "nbr-adoption": 2,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 25,
+      "departement": "DOUBS",
+      "nbr-adoption": 2,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 26,
+      "departement": "DROME",
+      "nbr-adoption": 4,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 91,
+      "departement": "ESSONNE",
+      "nbr-adoption": 22,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 27,
+      "departement": "EURE",
+      "nbr-adoption": 3,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 28,
+      "departement": "EURE-ET-LOIR",
+      "nbr-adoption": 5,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 29,
+      "departement": "FINISTERE",
+      "nbr-adoption": 19,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 30,
+      "departement": "GARD",
+      "nbr-adoption": 7,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 32,
+      "departement": "GERS",
+      "nbr-adoption": 7,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 33,
+      "departement": "GIRONDE",
+      "nbr-adoption": 13,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 971,
+      "departement": "GUADELOUPE",
+      "nbr-adoption": 2,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 68,
+      "departement": "HAUT-RHIN",
+      "nbr-adoption": 7,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 31,
+      "departement": "HAUTE-GARONNE",
+      "nbr-adoption": 27,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 43,
+      "departement": "HAUTE-LOIRE",
+      "nbr-adoption": 2,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 70,
+      "departement": "HAUTE-SAONE",
+      "nbr-adoption": 3,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 74,
+      "departement": "HAUTE-SAVOIE",
+      "nbr-adoption": 6,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 87,
+      "departement": "HAUTE-VIENNE",
+      "nbr-adoption": 6,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": "05",
+      "departement": "HAUTES-ALPES",
+      "nbr-adoption": 1,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 65,
+      "departement": "HAUTES-PYRENEES",
+      "nbr-adoption": 4,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 92,
+      "departement": "HAUTS-DE-SEINE",
+      "nbr-adoption": 27,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 34,
+      "departement": "HERAULT",
+      "nbr-adoption": 18,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 35,
+      "departement": "ILLE-ET-VILAINE",
+      "nbr-adoption": 17,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 36,
+      "departement": "INDRE",
+      "nbr-adoption": 2,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 37,
+      "departement": "INDRE-ET-LOIRE",
+      "nbr-adoption": 13,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 38,
+      "departement": "ISERE",
+      "nbr-adoption": 14,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 39,
+      "departement": "JURA",
+      "nbr-adoption": 1,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 40,
+      "departement": "LANDES",
+      "nbr-adoption": 9,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 41,
+      "departement": "LOIR-ET-CHER",
+      "nbr-adoption": 1,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 42,
+      "departement": "LOIRE",
+      "nbr-adoption": 3,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 44,
+      "departement": "LOIRE-ATLANTIQUE",
+      "nbr-adoption": 15,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 45,
+      "departement": "LOIRET",
+      "nbr-adoption": 9,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 46,
+      "departement": "LOT",
+      "nbr-adoption": 9,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 47,
+      "departement": "LOT-ET-GARONNE",
+      "nbr-adoption": 3,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 48,
+      "departement": "LOZERE",
+      "nbr-adoption": 2,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 49,
+      "departement": "MAINE-ET-LOIRE",
+      "nbr-adoption": 3,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 50,
+      "departement": "MANCHE",
+      "nbr-adoption": 6,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 51,
+      "departement": "MARNE",
+      "nbr-adoption": 5,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 972,
+      "departement": "MARTINIQUE",
+      "nbr-adoption": 2,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 53,
+      "departement": "MAYENNE",
+      "nbr-adoption": 6,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 54,
+      "departement": "MEURTHE-ET-MOSELLE",
+      "nbr-adoption": 5,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 56,
+      "departement": "MORBIHAN",
+      "nbr-adoption": 20,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 57,
+      "departement": "MOSELLE",
+      "nbr-adoption": 8,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 59,
+      "departement": "NORD",
+      "nbr-adoption": 29,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 60,
+      "departement": "OISE",
+      "nbr-adoption": 8,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 61,
+      "departement": "ORNE",
+      "nbr-adoption": 5,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 75,
+      "departement": "PARIS",
+      "nbr-adoption": 45,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 62,
+      "departement": "PAS-DE-CALAIS",
+      "nbr-adoption": 14,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 63,
+      "departement": "PUY-DE-DOME",
+      "nbr-adoption": 10,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 64,
+      "departement": "PYRENEES-ATLANTIQUES",
+      "nbr-adoption": 21,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 66,
+      "departement": "PYRENEES-ORIENTALES",
+      "nbr-adoption": 3,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 974,
+      "departement": "REUNION",
+      "nbr-adoption": 3,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 69,
+      "departement": "RHONE",
+      "nbr-adoption": 23,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 71,
+      "departement": "SAÔNE-ET-LOIRE",
+      "nbr-adoption": 7,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 72,
+      "departement": "SARTHE",
+      "nbr-adoption": 6,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 73,
+      "departement": "SAVOIE",
+      "nbr-adoption": 5,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 77,
+      "departement": "SEINE-ET-MARNE",
+      "nbr-adoption": 23,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 76,
+      "departement": "SEINE-MARITIME",
+      "nbr-adoption": 6,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 93,
+      "departement": "SEINE-SAINT-DENIS",
+      "nbr-adoption": 7,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 80,
+      "departement": "SOMME",
+      "nbr-adoption": 4,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 81,
+      "departement": "TARN",
+      "nbr-adoption": 7,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 82,
+      "departement": "TARN-ET-GARONNE",
+      "nbr-adoption": 5,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 90,
+      "departement": "TERRITOIRE DE BELFORT",
+      "nbr-adoption": 3,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 95,
+      "departement": "VAL-D'OISE",
+      "nbr-adoption": 3,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 94,
+      "departement": "VAL-DE-MARNE",
+      "nbr-adoption": 22,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 83,
+      "departement": "VAR",
+      "nbr-adoption": 15,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 84,
+      "departement": "VAUCLUSE",
+      "nbr-adoption": 6,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 85,
+      "departement": "VENDEE",
+      "nbr-adoption": 12,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 86,
+      "departement": "VIENNE",
+      "nbr-adoption": 13,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 88,
+      "departement": "VOSGES",
+      "nbr-adoption": 5,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 89,
+      "departement": "YONNE",
+      "nbr-adoption": 4,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": 78,
+      "departement": "YVELINES",
+      "nbr-adoption": 22,
+      "annee": 2015,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2015_cle815f3c.pdf#page=11"
+    },
+    {
+      "id": "01",
+      "departement": "AIN",
+      "nbr-adoption": 4,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": "02",
+      "departement": "AISNE",
+      "nbr-adoption": 4,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": "04",
+      "departement": "ALPES DE HAUTE PROVENCE",
+      "nbr-adoption": 1,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": "06",
+      "departement": "ALPES MARITIMES",
+      "nbr-adoption": 21,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": "07",
+      "departement": "ARDECHE",
+      "nbr-adoption": 3,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": "08",
+      "departement": "ARDENNES",
+      "nbr-adoption": 4,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": "09",
+      "departement": "ARIEGE",
+      "nbr-adoption": 4,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 10,
+      "departement": "AUBE",
+      "nbr-adoption": 3,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 11,
+      "departement": "AUDE",
+      "nbr-adoption": 3,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 12,
+      "departement": "AVEYRON",
+      "nbr-adoption": 5,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 67,
+      "departement": "BAS RHIN",
+      "nbr-adoption": 8,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 13,
+      "departement": "BOUCHES-DU-RHONE",
+      "nbr-adoption": 28,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 14,
+      "departement": "CALVADOS",
+      "nbr-adoption": 4,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 15,
+      "departement": "CANTAL",
+      "nbr-adoption": 1,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 16,
+      "departement": "CHARENTE",
+      "nbr-adoption": 3,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 17,
+      "departement": "CHARENTE-MARITIME",
+      "nbr-adoption": 8,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 18,
+      "departement": "CHER",
+      "nbr-adoption": 5,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 19,
+      "departement": "CORREZE",
+      "nbr-adoption": 5,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 21,
+      "departement": "COTE-D'OR",
+      "nbr-adoption": 10,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 22,
+      "departement": "COTES D'ARMOR",
+      "nbr-adoption": 12,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 23,
+      "departement": "CREUSE",
+      "nbr-adoption": 2,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 79,
+      "departement": "DEUX-SEVRES",
+      "nbr-adoption": 6,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 24,
+      "departement": "DORDOGNE",
+      "nbr-adoption": 6,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 25,
+      "departement": "DOUBS",
+      "nbr-adoption": 6,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 26,
+      "departement": "DROME",
+      "nbr-adoption": 9,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 91,
+      "departement": "ESSONNE",
+      "nbr-adoption": 23,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 27,
+      "departement": "EURE",
+      "nbr-adoption": 11,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 28,
+      "departement": "EURE-ET-LOIR",
+      "nbr-adoption": 9,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 29,
+      "departement": "FINISTERE",
+      "nbr-adoption": 32,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 30,
+      "departement": "GARD",
+      "nbr-adoption": 8,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 32,
+      "departement": "GERS",
+      "nbr-adoption": 6,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 33,
+      "departement": "GIRONDE",
+      "nbr-adoption": 19,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 971,
+      "departement": "GUADELOUPE",
+      "nbr-adoption": 4,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 973,
+      "departement": "GUYANE",
+      "nbr-adoption": 2,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 68,
+      "departement": "HAUT-RHIN",
+      "nbr-adoption": 10,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 31,
+      "departement": "HAUTE-GARONNE",
+      "nbr-adoption": 40,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 43,
+      "departement": "HAUTE-LOIRE",
+      "nbr-adoption": 3,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 52,
+      "departement": "HAUTE-MARNE",
+      "nbr-adoption": 1,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 70,
+      "departement": "HAUTE-SAONE",
+      "nbr-adoption": 4,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 74,
+      "departement": "HAUTE-SAVOIE",
+      "nbr-adoption": 6,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 87,
+      "departement": "HAUTE-VIENNE",
+      "nbr-adoption": 10,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": "05",
+      "departement": "HAUTES-ALPES",
+      "nbr-adoption": 3,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 65,
+      "departement": "HAUTES-PYRENEES",
+      "nbr-adoption": 2,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 92,
+      "departement": "HAUTS-DE-SEINE",
+      "nbr-adoption": 24,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 34,
+      "departement": "HERAULT",
+      "nbr-adoption": 16,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 35,
+      "departement": "ILLE-ET-VILAINE",
+      "nbr-adoption": 22,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 37,
+      "departement": "INDRE-ET-LOIRE",
+      "nbr-adoption": 17,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 38,
+      "departement": "ISERE",
+      "nbr-adoption": 19,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 39,
+      "departement": "JURA",
+      "nbr-adoption": 2,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 40,
+      "departement": "LANDES",
+      "nbr-adoption": 6,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 41,
+      "departement": "LOIR-ET-CHER",
+      "nbr-adoption": 8,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 42,
+      "departement": "LOIRE",
+      "nbr-adoption": 5,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 44,
+      "departement": "LOIRE-ATLANTIQUE",
+      "nbr-adoption": 28,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 45,
+      "departement": "LOIRET",
+      "nbr-adoption": 12,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 46,
+      "departement": "LOT",
+      "nbr-adoption": 3,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 47,
+      "departement": "LOT-ET-GARONNE",
+      "nbr-adoption": 4,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 49,
+      "departement": "MAINE-ET-LOIRE",
+      "nbr-adoption": 18,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 50,
+      "departement": "MANCHE",
+      "nbr-adoption": 7,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 51,
+      "departement": "MARNE",
+      "nbr-adoption": 7,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 53,
+      "departement": "MAYENNE",
+      "nbr-adoption": 16,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 54,
+      "departement": "MEURTHE-ET-MOSELLE",
+      "nbr-adoption": 4,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 55,
+      "departement": "MEUSE",
+      "nbr-adoption": 4,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 56,
+      "departement": "MORBIHAN",
+      "nbr-adoption": 11,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 57,
+      "departement": "MOSELLE",
+      "nbr-adoption": 9,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 58,
+      "departement": "NIEVRE",
+      "nbr-adoption": 3,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 59,
+      "departement": "NORD",
+      "nbr-adoption": 31,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 60,
+      "departement": "OISE",
+      "nbr-adoption": 13,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 61,
+      "departement": "ORNE",
+      "nbr-adoption": 3,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 75,
+      "departement": "PARIS",
+      "nbr-adoption": 34,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 62,
+      "departement": "PAS-DE-CALAIS",
+      "nbr-adoption": 10,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 63,
+      "departement": "PUY-DE-DOME",
+      "nbr-adoption": 9,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 64,
+      "departement": "PYRENEES-ATLANTIQUES",
+      "nbr-adoption": 15,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 66,
+      "departement": "PYRENEES-ORIENTALES",
+      "nbr-adoption": 3,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 974,
+      "departement": "REUNION",
+      "nbr-adoption": 3,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 69,
+      "departement": "RHONE",
+      "nbr-adoption": 30,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 71,
+      "departement": "SAONE-ET-LOIRE",
+      "nbr-adoption": 2,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 72,
+      "departement": "SARTHE",
+      "nbr-adoption": 11,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 73,
+      "departement": "SAVOIE",
+      "nbr-adoption": 9,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 77,
+      "departement": "SEINE-ET-MARNE",
+      "nbr-adoption": 16,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 76,
+      "departement": "SEINE-MARITIME",
+      "nbr-adoption": 15,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 93,
+      "departement": "SEINE-SAINT-DENIS",
+      "nbr-adoption": 8,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 80,
+      "departement": "SOMME",
+      "nbr-adoption": 3,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 81,
+      "departement": "TARN",
+      "nbr-adoption": 9,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 82,
+      "departement": "TARN-ET-GARONNE",
+      "nbr-adoption": 5,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 90,
+      "departement": "TERRITOIRE DE BELFORT",
+      "nbr-adoption": 4,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 95,
+      "departement": "VAL-D'OISE",
+      "nbr-adoption": 9,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 94,
+      "departement": "VAL-DE-MARNE",
+      "nbr-adoption": 18,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 83,
+      "departement": "VAR",
+      "nbr-adoption": 11,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 84,
+      "departement": "VAUCLUSE",
+      "nbr-adoption": 4,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 85,
+      "departement": "VENDEE",
+      "nbr-adoption": 23,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 86,
+      "departement": "VIENNE",
+      "nbr-adoption": 2,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 88,
+      "departement": "VOSGES",
+      "nbr-adoption": 6,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 89,
+      "departement": "YONNE",
+      "nbr-adoption": 6,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": 78,
+      "departement": "YVELINES",
+      "nbr-adoption": 24,
+      "annee": 2016,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2016_cle8a9b1e.pdf#page=15"
+    },
+    {
+      "id": "01",
+      "departement": "Ain",
+      "nbr-adoption": 3,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": "02",
+      "departement": "Aisne",
+      "nbr-adoption": 4,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": "03",
+      "departement": "Allier",
+      "nbr-adoption": 6,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": "04",
+      "departement": "Alpes-de-Haute-Provence",
+      "nbr-adoption": 1,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": "06",
+      "departement": "Alpes-Maritimes",
+      "nbr-adoption": 7,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": "07",
+      "departement": "Ardèche",
+      "nbr-adoption": 6,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": "08",
+      "departement": "Ardennes",
+      "nbr-adoption": 3,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": "09",
+      "departement": "Ariège",
+      "nbr-adoption": 3,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 10,
+      "departement": "Aube",
+      "nbr-adoption": 3,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 11,
+      "departement": "Aude",
+      "nbr-adoption": 5,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 12,
+      "departement": "Aveyron",
+      "nbr-adoption": 7,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 67,
+      "departement": "Bas-Rhin",
+      "nbr-adoption": 6,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 13,
+      "departement": "Bouches-du-Rhône",
+      "nbr-adoption": 25,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 14,
+      "departement": "Calvados",
+      "nbr-adoption": 5,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 15,
+      "departement": "Cantal",
+      "nbr-adoption": 0,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 16,
+      "departement": "Charente",
+      "nbr-adoption": 3,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 17,
+      "departement": "Charente-Maritime",
+      "nbr-adoption": 4,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 18,
+      "departement": "Cher",
+      "nbr-adoption": 2,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 19,
+      "departement": "Corrèze",
+      "nbr-adoption": 2,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": "2A",
+      "departement": "Corse-du-Sud",
+      "nbr-adoption": 1,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 21,
+      "departement": "Côte d'Or",
+      "nbr-adoption": 2,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 22,
+      "departement": "Côtes d'Armor",
+      "nbr-adoption": 11,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 23,
+      "departement": "Creuse",
+      "nbr-adoption": 1,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 79,
+      "departement": "Deux-Sèvres",
+      "nbr-adoption": 3,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 24,
+      "departement": "Dordogne",
+      "nbr-adoption": 7,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 25,
+      "departement": "Doubs",
+      "nbr-adoption": 9,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 26,
+      "departement": "Drôme",
+      "nbr-adoption": 12,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 91,
+      "departement": "Essonne",
+      "nbr-adoption": 22,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 27,
+      "departement": "Eure",
+      "nbr-adoption": 3,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 28,
+      "departement": "Eure-et-Loir",
+      "nbr-adoption": 5,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 29,
+      "departement": "Finistère",
+      "nbr-adoption": 23,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 30,
+      "departement": "Gard",
+      "nbr-adoption": 4,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 32,
+      "departement": "Gers",
+      "nbr-adoption": 2,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 33,
+      "departement": "Gironde",
+      "nbr-adoption": 6,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 971,
+      "departement": "Guadeloupe",
+      "nbr-adoption": 2,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 973,
+      "departement": "Guyane",
+      "nbr-adoption": 1,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 68,
+      "departement": "Haut-Rhin",
+      "nbr-adoption": 10,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": "2B",
+      "departement": "Haute-Corse",
+      "nbr-adoption": 0,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 31,
+      "departement": "Haute-Garonne",
+      "nbr-adoption": 18,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 43,
+      "departement": "Haute-Loire",
+      "nbr-adoption": 6,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 52,
+      "departement": "Haute-Marne",
+      "nbr-adoption": 3,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 70,
+      "departement": "Haute-Saône",
+      "nbr-adoption": 1,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 74,
+      "departement": "Haute-Savoie",
+      "nbr-adoption": 9,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 87,
+      "departement": "Haute-Vienne",
+      "nbr-adoption": 7,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": "05",
+      "departement": "Hautes-Alpes",
+      "nbr-adoption": 3,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 65,
+      "departement": "Hautes-Pyrénées",
+      "nbr-adoption": 2,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 92,
+      "departement": "Hauts-de-Seine",
+      "nbr-adoption": 28,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 34,
+      "departement": "Hérault",
+      "nbr-adoption": 8,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 35,
+      "departement": "Ille-et-Vilaine",
+      "nbr-adoption": 15,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 36,
+      "departement": "Indre",
+      "nbr-adoption": 3,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 37,
+      "departement": "Indre-et-Loire",
+      "nbr-adoption": 10,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 38,
+      "departement": "Isère",
+      "nbr-adoption": 11,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 39,
+      "departement": "Jura",
+      "nbr-adoption": 3,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 40,
+      "departement": "Landes",
+      "nbr-adoption": 3,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 41,
+      "departement": "Loir-et-Cher",
+      "nbr-adoption": 7,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 42,
+      "departement": "Loire",
+      "nbr-adoption": 4,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 44,
+      "departement": "Loire-Atlantique",
+      "nbr-adoption": 20,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 45,
+      "departement": "Loiret",
+      "nbr-adoption": 8,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 46,
+      "departement": "Lot",
+      "nbr-adoption": 2,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 47,
+      "departement": "Lot-et-Garonne",
+      "nbr-adoption": 9,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 48,
+      "departement": "Lozère",
+      "nbr-adoption": 1,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 49,
+      "departement": "Maine-et-Loire",
+      "nbr-adoption": 10,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 50,
+      "departement": "Manche",
+      "nbr-adoption": 1,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 51,
+      "departement": "Marne",
+      "nbr-adoption": 0,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 53,
+      "departement": "Mayenne",
+      "nbr-adoption": 4,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 54,
+      "departement": "Meurthe-et-Moselle",
+      "nbr-adoption": 4,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 55,
+      "departement": "Meuse",
+      "nbr-adoption": 0,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 56,
+      "departement": "Morbihan",
+      "nbr-adoption": 14,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 57,
+      "departement": "Moselle",
+      "nbr-adoption": 10,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 58,
+      "departement": "Nièvre",
+      "nbr-adoption": 0,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 59,
+      "departement": "Nord",
+      "nbr-adoption": 19,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 60,
+      "departement": "Oise",
+      "nbr-adoption": 6,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 61,
+      "departement": "Orne",
+      "nbr-adoption": 2,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 75,
+      "departement": "Paris",
+      "nbr-adoption": 28,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 62,
+      "departement": "Pas-de-Calais",
+      "nbr-adoption": 5,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 63,
+      "departement": "Puy de Dôme",
+      "nbr-adoption": 3,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 64,
+      "departement": "Pyrénées-Atlantiques",
+      "nbr-adoption": 8,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 66,
+      "departement": "Pyrénées-Orientales",
+      "nbr-adoption": 2,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 69,
+      "departement": "Rhône",
+      "nbr-adoption": 15,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 71,
+      "departement": "Saône-et-Loire",
+      "nbr-adoption": 3,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 72,
+      "departement": "Sarthe",
+      "nbr-adoption": 14,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 73,
+      "departement": "Savoie",
+      "nbr-adoption": 9,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 77,
+      "departement": "Seine-et-Marne",
+      "nbr-adoption": 8,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 76,
+      "departement": "Seine-Maritime",
+      "nbr-adoption": 3,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 93,
+      "departement": "Seine-Saint-Denis",
+      "nbr-adoption": 13,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 80,
+      "departement": "Somme",
+      "nbr-adoption": 3,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 81,
+      "departement": "Tarn",
+      "nbr-adoption": 4,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 82,
+      "departement": "Tarn-et-Garonne",
+      "nbr-adoption": 4,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 90,
+      "departement": "Territoire de Belfort",
+      "nbr-adoption": 1,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 95,
+      "departement": "Val d'Oise",
+      "nbr-adoption": 5,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 94,
+      "departement": "Val-de-Marne",
+      "nbr-adoption": 6,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 83,
+      "departement": "Var",
+      "nbr-adoption": 15,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 84,
+      "departement": "Vaucluse",
+      "nbr-adoption": 7,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 85,
+      "departement": "Vendée",
+      "nbr-adoption": 12,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 86,
+      "departement": "Vienne",
+      "nbr-adoption": 8,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 88,
+      "departement": "Vosges",
+      "nbr-adoption": 2,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 89,
+      "departement": "Yonne",
+      "nbr-adoption": 4,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": 78,
+      "departement": "Yvelines",
+      "nbr-adoption": 28,
+      "annee": 2017,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/v3.pdf_cle44cc1b.pdf#page=11"
+    },
+    {
+      "id": "01",
+      "departement": "Ain",
+      "nbr-adoption": 2,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": "02",
+      "departement": "Aisne",
+      "nbr-adoption": 5,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": "03",
+      "departement": "Allier",
+      "nbr-adoption": 2,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": "04",
+      "departement": "Alpes-de-Haute-Provence",
+      "nbr-adoption": 0,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": "06",
+      "departement": "Alpes-Maritimes",
+      "nbr-adoption": 7,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": "07",
+      "departement": "Ardèche",
+      "nbr-adoption": 5,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": "08",
+      "departement": "Ardennes",
+      "nbr-adoption": 0,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": "09",
+      "departement": "Ariège",
+      "nbr-adoption": 2,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 10,
+      "departement": "Aube",
+      "nbr-adoption": 1,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 11,
+      "departement": "Aude",
+      "nbr-adoption": 0,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 12,
+      "departement": "Aveyron",
+      "nbr-adoption": 7,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 67,
+      "departement": "Bas-Rhin",
+      "nbr-adoption": 5,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 13,
+      "departement": "Bouches-du-Rhône",
+      "nbr-adoption": 32,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 14,
+      "departement": "Calvados",
+      "nbr-adoption": 1,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 15,
+      "departement": "Cantal",
+      "nbr-adoption": 1,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 16,
+      "departement": "Charente",
+      "nbr-adoption": 1,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 17,
+      "departement": "Charente-Maritime",
+      "nbr-adoption": 6,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 18,
+      "departement": "Cher",
+      "nbr-adoption": 3,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 19,
+      "departement": "Corrèze",
+      "nbr-adoption": 2,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": "2A",
+      "departement": "Corse-du-Sud",
+      "nbr-adoption": 3,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 21,
+      "departement": "Côte d'Or",
+      "nbr-adoption": 13,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 22,
+      "departement": "Côtes d'Armor",
+      "nbr-adoption": 8,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 23,
+      "departement": "Creuse",
+      "nbr-adoption": 1,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 79,
+      "departement": "Deux-Sèvres",
+      "nbr-adoption": 2,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 24,
+      "departement": "Dordogne",
+      "nbr-adoption": 6,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 25,
+      "departement": "Doubs",
+      "nbr-adoption": 5,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 26,
+      "departement": "Drôme",
+      "nbr-adoption": 7,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 91,
+      "departement": "Essonne",
+      "nbr-adoption": 9,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 27,
+      "departement": "Eure",
+      "nbr-adoption": 5,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 28,
+      "departement": "Eure-et-Loir",
+      "nbr-adoption": 3,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 29,
+      "departement": "Finistère",
+      "nbr-adoption": 26,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 30,
+      "departement": "Gard",
+      "nbr-adoption": 10,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 32,
+      "departement": "Gers",
+      "nbr-adoption": 5,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 33,
+      "departement": "Gironde",
+      "nbr-adoption": 8,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 971,
+      "departement": "Guadeloupe",
+      "nbr-adoption": 2,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 68,
+      "departement": "Haut-Rhin",
+      "nbr-adoption": 1,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": "2B",
+      "departement": "Haute-Corse",
+      "nbr-adoption": 1,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 31,
+      "departement": "Haute-Garonne",
+      "nbr-adoption": 21,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 43,
+      "departement": "Haute-Loire",
+      "nbr-adoption": 3,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 52,
+      "departement": "Haute-Marne",
+      "nbr-adoption": 0,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 70,
+      "departement": "Haute-Saône",
+      "nbr-adoption": 3,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 74,
+      "departement": "Haute-Savoie",
+      "nbr-adoption": 12,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 87,
+      "departement": "Haute-Vienne",
+      "nbr-adoption": 9,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": "05",
+      "departement": "Hautes-Alpes",
+      "nbr-adoption": 2,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 65,
+      "departement": "Hautes-Pyrénées",
+      "nbr-adoption": 3,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 92,
+      "departement": "Hauts-de-Seine",
+      "nbr-adoption": 28,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 34,
+      "departement": "Hérault",
+      "nbr-adoption": 8,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 35,
+      "departement": "Ille-et-Vilaine",
+      "nbr-adoption": 20,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 36,
+      "departement": "Indre",
+      "nbr-adoption": 1,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 37,
+      "departement": "Indre-et-Loire",
+      "nbr-adoption": 5,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 38,
+      "departement": "Isère",
+      "nbr-adoption": 8,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 39,
+      "departement": "Jura",
+      "nbr-adoption": 1,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 40,
+      "departement": "Landes",
+      "nbr-adoption": 5,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 41,
+      "departement": "Loir-et-Cher",
+      "nbr-adoption": 3,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 42,
+      "departement": "Loire",
+      "nbr-adoption": 1,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 44,
+      "departement": "Loire-Atlantique",
+      "nbr-adoption": 25,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 45,
+      "departement": "Loiret",
+      "nbr-adoption": 5,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 46,
+      "departement": "Lot",
+      "nbr-adoption": 7,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 47,
+      "departement": "Lot-et-Garonne",
+      "nbr-adoption": 0,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 48,
+      "departement": "Lozère",
+      "nbr-adoption": 0,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 49,
+      "departement": "Maine-et-Loire",
+      "nbr-adoption": 5,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 50,
+      "departement": "Manche",
+      "nbr-adoption": 1,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 51,
+      "departement": "Marne",
+      "nbr-adoption": 4,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 972,
+      "departement": "Martinique",
+      "nbr-adoption": 2,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 53,
+      "departement": "Mayenne",
+      "nbr-adoption": 3,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 54,
+      "departement": "Meurthe-et-Moselle",
+      "nbr-adoption": 1,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 55,
+      "departement": "Meuse",
+      "nbr-adoption": 2,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 56,
+      "departement": "Morbihan",
+      "nbr-adoption": 10,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 57,
+      "departement": "Moselle",
+      "nbr-adoption": 4,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 58,
+      "departement": "Nièvre",
+      "nbr-adoption": 0,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 59,
+      "departement": "Nord",
+      "nbr-adoption": 9,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 60,
+      "departement": "Oise",
+      "nbr-adoption": 8,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 61,
+      "departement": "Orne",
+      "nbr-adoption": 1,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 75,
+      "departement": "Paris",
+      "nbr-adoption": 23,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 62,
+      "departement": "Pas-de-Calais",
+      "nbr-adoption": 8,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 63,
+      "departement": "Puy de Dôme",
+      "nbr-adoption": 2,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 64,
+      "departement": "Pyrénées-Atlantiques",
+      "nbr-adoption": 16,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 66,
+      "departement": "Pyrénées-Orientales",
+      "nbr-adoption": 1,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 69,
+      "departement": "Rhône",
+      "nbr-adoption": 20,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 71,
+      "departement": "Saône-et-Loire",
+      "nbr-adoption": 1,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 72,
+      "departement": "Sarthe",
+      "nbr-adoption": 11,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 73,
+      "departement": "Savoie",
+      "nbr-adoption": 3,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 77,
+      "departement": "Seine-et-Marne",
+      "nbr-adoption": 9,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 76,
+      "departement": "Seine-Maritime",
+      "nbr-adoption": 4,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 93,
+      "departement": "Seine-Saint-Denis",
+      "nbr-adoption": 10,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 80,
+      "departement": "Somme",
+      "nbr-adoption": 1,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 81,
+      "departement": "Tarn",
+      "nbr-adoption": 4,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 82,
+      "departement": "Tarn-et-Garonne",
+      "nbr-adoption": 1,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 90,
+      "departement": "Territoire de Belfort",
+      "nbr-adoption": 1,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 95,
+      "departement": "Val d'Oise",
+      "nbr-adoption": 8,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 94,
+      "departement": "Val-de-Marne",
+      "nbr-adoption": 11,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 83,
+      "departement": "Var",
+      "nbr-adoption": 6,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 84,
+      "departement": "Vaucluse",
+      "nbr-adoption": 5,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 85,
+      "departement": "Vendée",
+      "nbr-adoption": 15,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 86,
+      "departement": "Vienne",
+      "nbr-adoption": 8,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 88,
+      "departement": "Vosges",
+      "nbr-adoption": 1,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 89,
+      "departement": "Yonne",
+      "nbr-adoption": 5,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": 78,
+      "departement": "Yvelines",
+      "nbr-adoption": 19,
+      "annee": 2018,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/final.13.03.19_cle8b7add.pdf#page=11"
+    },
+    {
+      "id": "01",
+      "departement": "Ain",
+      "nbr-adoption": 4,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": "02",
+      "departement": "Aisne",
+      "nbr-adoption": 3,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": "03",
+      "departement": "Allier",
+      "nbr-adoption": 0,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": "04",
+      "departement": "Alpes-de-Haute-Provence",
+      "nbr-adoption": 0,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": "06",
+      "departement": "Alpes-Maritimes",
+      "nbr-adoption": 0,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": "07",
+      "departement": "Ardèche",
+      "nbr-adoption": 3,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": "08",
+      "departement": "Ardennes",
+      "nbr-adoption": 0,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": "09",
+      "departement": "Ariège",
+      "nbr-adoption": 2,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 10,
+      "departement": "Aube",
+      "nbr-adoption": 0,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 11,
+      "departement": "Aude",
+      "nbr-adoption": 0,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 12,
+      "departement": "Aveyron",
+      "nbr-adoption": 4,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 67,
+      "departement": "Bas-Rhin",
+      "nbr-adoption": 6,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 13,
+      "departement": "Bouches-du-Rhône",
+      "nbr-adoption": 15,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 14,
+      "departement": "Calvados",
+      "nbr-adoption": 3,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 15,
+      "departement": "Cantal",
+      "nbr-adoption": 0,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 16,
+      "departement": "Charente",
+      "nbr-adoption": 0,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 17,
+      "departement": "Charente-Maritime",
+      "nbr-adoption": 5,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 18,
+      "departement": "Cher",
+      "nbr-adoption": 1,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 19,
+      "departement": "Corrèze",
+      "nbr-adoption": 4,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": "2A",
+      "departement": "Corse-du-Sud",
+      "nbr-adoption": 0,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 21,
+      "departement": "Côte d'Or",
+      "nbr-adoption": 2,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 22,
+      "departement": "Côtes d'Armor",
+      "nbr-adoption": 10,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 23,
+      "departement": "Creuse",
+      "nbr-adoption": 0,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 79,
+      "departement": "Deux-Sèvres",
+      "nbr-adoption": 5,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 24,
+      "departement": "Dordogne",
+      "nbr-adoption": 2,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 25,
+      "departement": "Doubs",
+      "nbr-adoption": 1,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 26,
+      "departement": "Drôme",
+      "nbr-adoption": 9,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 91,
+      "departement": "Essonne",
+      "nbr-adoption": 12,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 27,
+      "departement": "Eure",
+      "nbr-adoption": 2,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 28,
+      "departement": "Eure-et-Loir",
+      "nbr-adoption": 5,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 29,
+      "departement": "Finistère",
+      "nbr-adoption": 13,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 30,
+      "departement": "Gard",
+      "nbr-adoption": 2,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 32,
+      "departement": "Gers",
+      "nbr-adoption": 0,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 33,
+      "departement": "Gironde",
+      "nbr-adoption": 2,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 971,
+      "departement": "Guadeloupe",
+      "nbr-adoption": 1,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 973,
+      "departement": "Guyane",
+      "nbr-adoption": 1,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 68,
+      "departement": "Haut-Rhin",
+      "nbr-adoption": 3,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": "2B",
+      "departement": "Haute-Corse",
+      "nbr-adoption": 0,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 31,
+      "departement": "Haute-Garonne",
+      "nbr-adoption": 16,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 43,
+      "departement": "Haute-Loire",
+      "nbr-adoption": 3,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 52,
+      "departement": "Haute-Marne",
+      "nbr-adoption": 0,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 70,
+      "departement": "Haute-Saône",
+      "nbr-adoption": 0,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 74,
+      "departement": "Haute-Savoie",
+      "nbr-adoption": 5,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 87,
+      "departement": "Haute-Vienne",
+      "nbr-adoption": 6,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": "05",
+      "departement": "Hautes-Alpes",
+      "nbr-adoption": 1,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 65,
+      "departement": "Hautes-Pyrénées",
+      "nbr-adoption": 6,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 92,
+      "departement": "Hauts-de-Seine",
+      "nbr-adoption": 13,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 34,
+      "departement": "Hérault",
+      "nbr-adoption": 8,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 35,
+      "departement": "Ille-et-Vilaine",
+      "nbr-adoption": 10,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 36,
+      "departement": "Indre",
+      "nbr-adoption": 0,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 37,
+      "departement": "Indre-et-Loire",
+      "nbr-adoption": 7,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 38,
+      "departement": "Isère",
+      "nbr-adoption": 10,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 39,
+      "departement": "Jura",
+      "nbr-adoption": 1,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 40,
+      "departement": "Landes",
+      "nbr-adoption": 3,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 41,
+      "departement": "Loir-et-Cher",
+      "nbr-adoption": 1,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 42,
+      "departement": "Loire",
+      "nbr-adoption": 4,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 44,
+      "departement": "Loire-Atlantique",
+      "nbr-adoption": 7,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 45,
+      "departement": "Loiret",
+      "nbr-adoption": 1,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 46,
+      "departement": "Lot",
+      "nbr-adoption": 0,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 47,
+      "departement": "Lot-et-Garonne",
+      "nbr-adoption": 2,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 48,
+      "departement": "Lozère",
+      "nbr-adoption": 0,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 49,
+      "departement": "Maine-et-Loire",
+      "nbr-adoption": 5,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 50,
+      "departement": "Manche",
+      "nbr-adoption": 5,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 51,
+      "departement": "Marne",
+      "nbr-adoption": 1,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 53,
+      "departement": "Mayenne",
+      "nbr-adoption": 4,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 54,
+      "departement": "Meurthe-et-Moselle",
+      "nbr-adoption": 3,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 55,
+      "departement": "Meuse",
+      "nbr-adoption": 0,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 56,
+      "departement": "Morbihan",
+      "nbr-adoption": 15,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 57,
+      "departement": "Moselle",
+      "nbr-adoption": 0,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 58,
+      "departement": "Nièvre",
+      "nbr-adoption": 2,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 59,
+      "departement": "Nord",
+      "nbr-adoption": 15,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 60,
+      "departement": "Oise",
+      "nbr-adoption": 6,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 61,
+      "departement": "Orne",
+      "nbr-adoption": 1,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 75,
+      "departement": "Paris",
+      "nbr-adoption": 26,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 62,
+      "departement": "Pas-de-Calais",
+      "nbr-adoption": 1,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 63,
+      "departement": "Puy de Dôme",
+      "nbr-adoption": 5,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 64,
+      "departement": "Pyrénées-Atlantiques",
+      "nbr-adoption": 8,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 66,
+      "departement": "Pyrénées-Orientales",
+      "nbr-adoption": 1,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 69,
+      "departement": "Rhône",
+      "nbr-adoption": 17,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 71,
+      "departement": "Saône-et-Loire",
+      "nbr-adoption": 2,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 72,
+      "departement": "Sarthe",
+      "nbr-adoption": 3,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 73,
+      "departement": "Savoie",
+      "nbr-adoption": 4,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 77,
+      "departement": "Seine-et-Marne",
+      "nbr-adoption": 9,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 76,
+      "departement": "Seine-Maritime",
+      "nbr-adoption": 0,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 93,
+      "departement": "Seine-Saint-Denis",
+      "nbr-adoption": 4,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 80,
+      "departement": "Somme",
+      "nbr-adoption": 0,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 81,
+      "departement": "Tarn",
+      "nbr-adoption": 1,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 82,
+      "departement": "Tarn-et-Garonne",
+      "nbr-adoption": 4,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 90,
+      "departement": "Territoire de Belfort",
+      "nbr-adoption": 1,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 95,
+      "departement": "Val-d'Oise",
+      "nbr-adoption": 8,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 94,
+      "departement": "Val-de-Marne",
+      "nbr-adoption": 7,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 83,
+      "departement": "Var",
+      "nbr-adoption": 9,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 84,
+      "departement": "Vaucluse",
+      "nbr-adoption": 4,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 85,
+      "departement": "Vendée",
+      "nbr-adoption": 12,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 86,
+      "departement": "Vienne",
+      "nbr-adoption": 2,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 88,
+      "departement": "Vosges",
+      "nbr-adoption": 2,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 89,
+      "departement": "Yonne",
+      "nbr-adoption": 0,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": 78,
+      "departement": "Yvelines",
+      "nbr-adoption": 6,
+      "annee": 2019,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2019__cle0efdf9.pdf#page=10"
+    },
+    {
+      "id": "01",
+      "departement": "AIN",
+      "nbr-adoption": 4,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": "02",
+      "departement": "AISNE",
+      "nbr-adoption": 3,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": "04",
+      "departement": "ALPES HTE PROVENCE",
+      "nbr-adoption": 1,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": "06",
+      "departement": "ALPES-MARITIMES",
+      "nbr-adoption": 3,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": "07",
+      "departement": "ARDECHE",
+      "nbr-adoption": 1,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": 10,
+      "departement": "AUBE",
+      "nbr-adoption": 2,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": 11,
+      "departement": "AUDE",
+      "nbr-adoption": 1,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": 12,
+      "departement": "AVEYRON",
+      "nbr-adoption": 3,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": 67,
+      "departement": "BAS-RHIN",
+      "nbr-adoption": 5,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": 13,
+      "departement": "BOUCHES-DU-RHONE",
+      "nbr-adoption": 12,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": 14,
+      "departement": "CALVADOS",
+      "nbr-adoption": 2,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": 15,
+      "departement": "CANTAL",
+      "nbr-adoption": 1,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": 17,
+      "departement": "CHARENTE-MARITIME",
+      "nbr-adoption": 2,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": 18,
+      "departement": "CHER",
+      "nbr-adoption": 1,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": 19,
+      "departement": "CORREZE",
+      "nbr-adoption": 1,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": "2A",
+      "departement": "CORSE DU SUD",
+      "nbr-adoption": 1,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": 21,
+      "departement": "COTE-D'OR",
+      "nbr-adoption": 1,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": 22,
+      "departement": "COTES D'ARMOR",
+      "nbr-adoption": 4,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": 24,
+      "departement": "DORDOGNE",
+      "nbr-adoption": 1,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": 25,
+      "departement": "DOUBS",
+      "nbr-adoption": 1,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": 91,
+      "departement": "ESSONNE",
+      "nbr-adoption": 5,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": 27,
+      "departement": "EURE",
+      "nbr-adoption": 1,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": 28,
+      "departement": "EURE-ET-LOIR",
+      "nbr-adoption": 1,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": 29,
+      "departement": "FINISTERE",
+      "nbr-adoption": 9,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": 30,
+      "departement": "GARD",
+      "nbr-adoption": 4,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": 32,
+      "departement": "GERS",
+      "nbr-adoption": 2,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": 33,
+      "departement": "GIRONDE",
+      "nbr-adoption": 1,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": 971,
+      "departement": "GUADELOUPE",
+      "nbr-adoption": 1,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": 68,
+      "departement": "HAUT-RHIN",
+      "nbr-adoption": 1,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": "2B",
+      "departement": "HAUTE-CORSE",
+      "nbr-adoption": 1,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": 31,
+      "departement": "HAUTE-GARONNE",
+      "nbr-adoption": 8,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": 43,
+      "departement": "HAUTE-LOIRE",
+      "nbr-adoption": 1,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": 70,
+      "departement": "HAUTE-SAONE",
+      "nbr-adoption": 1,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": 74,
+      "departement": "HAUTE-SAVOIE",
+      "nbr-adoption": 3,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": 87,
+      "departement": "HAUTE-VIENNE",
+      "nbr-adoption": 5,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": "05",
+      "departement": "HAUTES-ALPES",
+      "nbr-adoption": 3,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": 92,
+      "departement": "HAUTS-DE-SEINE",
+      "nbr-adoption": 10,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": 34,
+      "departement": "HERAULT",
+      "nbr-adoption": 5,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": 35,
+      "departement": "ILLE-ET-VILAINE",
+      "nbr-adoption": 3,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": 36,
+      "departement": "INDRE",
+      "nbr-adoption": 1,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": 37,
+      "departement": "INDRE-ET-LOIRE",
+      "nbr-adoption": 3,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": 38,
+      "departement": "ISERE",
+      "nbr-adoption": 8,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": 40,
+      "departement": "LANDES",
+      "nbr-adoption": 1,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": 41,
+      "departement": "LOIR-ET-CHER",
+      "nbr-adoption": 2,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": 42,
+      "departement": "LOIRE",
+      "nbr-adoption": 3,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": 44,
+      "departement": "LOIRE-ATLANTIQUE",
+      "nbr-adoption": 4,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": 45,
+      "departement": "LOIRET",
+      "nbr-adoption": 1,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": 47,
+      "departement": "LOT-ET-GARONNE",
+      "nbr-adoption": 1,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": 49,
+      "departement": "MAINE-ET-LOIRE",
+      "nbr-adoption": 3,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": 50,
+      "departement": "MANCHE",
+      "nbr-adoption": 1,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": 51,
+      "departement": "MARNE",
+      "nbr-adoption": 1,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": 53,
+      "departement": "MAYENNE",
+      "nbr-adoption": 1,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": 56,
+      "departement": "MORBIHAN",
+      "nbr-adoption": 6,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": 57,
+      "departement": "MOSELLE",
+      "nbr-adoption": 1,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": 59,
+      "departement": "NORD",
+      "nbr-adoption": 9,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": 60,
+      "departement": "OISE",
+      "nbr-adoption": 6,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": 75,
+      "departement": "PARIS",
+      "nbr-adoption": 11,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": 62,
+      "departement": "PAS-DE-CALAIS",
+      "nbr-adoption": 2,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": 63,
+      "departement": "PUY-DE-DOME",
+      "nbr-adoption": 1,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": 64,
+      "departement": "PYRENEES-ATLANTIQUES",
+      "nbr-adoption": 4,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": 974,
+      "departement": "REUNION",
+      "nbr-adoption": 1,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": 69,
+      "departement": "RHONE",
+      "nbr-adoption": 7,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": 72,
+      "departement": "SARTHE",
+      "nbr-adoption": 8,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": 73,
+      "departement": "SAVOIE",
+      "nbr-adoption": 1,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": 77,
+      "departement": "SEINE-ET-MARNE",
+      "nbr-adoption": 4,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": 76,
+      "departement": "SEINE-MARITIME",
+      "nbr-adoption": 1,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": 93,
+      "departement": "SEINE-SAINT-DENIS",
+      "nbr-adoption": 5,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": 81,
+      "departement": "TARN",
+      "nbr-adoption": 2,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": 95,
+      "departement": "VAL-D'OISE",
+      "nbr-adoption": 4,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": 83,
+      "departement": "VAR",
+      "nbr-adoption": 5,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": 84,
+      "departement": "VAUCLUSE",
+      "nbr-adoption": 2,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": 85,
+      "departement": "VENDEE",
+      "nbr-adoption": 3,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": 89,
+      "departement": "YONNE",
+      "nbr-adoption": 3,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": 78,
+      "departement": "YVELINES",
+      "nbr-adoption": 12,
+      "annee": 2020,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/2020_cle8a1a32.pdf#page=10"
+    },
+    {
+      "id": "01",
+      "departement": "AIN",
+      "nbr-adoption": 1,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": "02",
+      "departement": "AISNE",
+      "nbr-adoption": 3,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": "03",
+      "departement": "ALLIER",
+      "nbr-adoption": 1,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": "04",
+      "departement": "ALPES-DE-HAUTE-PROVENCE",
+      "nbr-adoption": 1,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": "06",
+      "departement": "ALPES-MARITIMES",
+      "nbr-adoption": 4,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": "08",
+      "departement": "ARDENNES",
+      "nbr-adoption": 2,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": "09",
+      "departement": "ARIÈGE",
+      "nbr-adoption": 1,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": 12,
+      "departement": "AVEYRON",
+      "nbr-adoption": 1,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": 67,
+      "departement": "BAS-RHIN",
+      "nbr-adoption": 3,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": 13,
+      "departement": "BOUCHES-DU-RHÔNE",
+      "nbr-adoption": 11,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": 14,
+      "departement": "CALVADOS",
+      "nbr-adoption": 4,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": 16,
+      "departement": "CHARENTE",
+      "nbr-adoption": 1,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": 17,
+      "departement": "CHARENTE-MARITIME",
+      "nbr-adoption": 4,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": 19,
+      "departement": "CORRÈZE",
+      "nbr-adoption": 1,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": 21,
+      "departement": "CÔTE-D'OR",
+      "nbr-adoption": 1,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": 22,
+      "departement": "CÔTES D'ARMOR",
+      "nbr-adoption": 5,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": 24,
+      "departement": "DORDOGNE",
+      "nbr-adoption": 3,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": 26,
+      "departement": "DRÔME",
+      "nbr-adoption": 6,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": 91,
+      "departement": "ESSONNE",
+      "nbr-adoption": 5,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": 27,
+      "departement": "EURE",
+      "nbr-adoption": 3,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": 28,
+      "departement": "EURE-ET-LOIR",
+      "nbr-adoption": 4,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": 29,
+      "departement": "FINISTÈRE",
+      "nbr-adoption": 10,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": 30,
+      "departement": "GARD",
+      "nbr-adoption": 1,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": 33,
+      "departement": "GIRONDE",
+      "nbr-adoption": 2,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": 971,
+      "departement": "Guadeloupe",
+      "nbr-adoption": 1,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": 971,
+      "departement": "GUADELOUPE",
+      "nbr-adoption": 1,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": 973,
+      "departement": "Guyane",
+      "nbr-adoption": 1,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": 973,
+      "departement": "GUYANE",
+      "nbr-adoption": 1,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": 68,
+      "departement": "HAUT-RHIN",
+      "nbr-adoption": 2,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": "2B",
+      "departement": "HAUTE-CORSE",
+      "nbr-adoption": 2,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": 31,
+      "departement": "HAUTE-GARONNE",
+      "nbr-adoption": 8,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": 43,
+      "departement": "HAUTE-LOIRE",
+      "nbr-adoption": 2,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": 87,
+      "departement": "HAUTE-VIENNE",
+      "nbr-adoption": 4,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": 65,
+      "departement": "HAUTES-PYRÉNÉES",
+      "nbr-adoption": 2,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": 92,
+      "departement": "HAUTS-DE-SEINE",
+      "nbr-adoption": 5,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": 34,
+      "departement": "HÉRAULT",
+      "nbr-adoption": 4,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": 35,
+      "departement": "ILLE-ET-VILAINE",
+      "nbr-adoption": 3,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": 36,
+      "departement": "INDRE",
+      "nbr-adoption": 2,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": 37,
+      "departement": "INDRE-ET-LOIRE",
+      "nbr-adoption": 3,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": 38,
+      "departement": "ISÈRE",
+      "nbr-adoption": 2,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": 39,
+      "departement": "JURA",
+      "nbr-adoption": 2,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": 40,
+      "departement": "LANDES",
+      "nbr-adoption": 3,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": 42,
+      "departement": "LOIRE",
+      "nbr-adoption": 2,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": 44,
+      "departement": "LOIRE-ATLANTIQUE",
+      "nbr-adoption": 8,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": 45,
+      "departement": "LOIRET",
+      "nbr-adoption": 1,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": 46,
+      "departement": "LOT",
+      "nbr-adoption": 1,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": 47,
+      "departement": "LOT-ET-GARONNE",
+      "nbr-adoption": 1,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": 49,
+      "departement": "MAINE-ET-LOIRE",
+      "nbr-adoption": 3,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": 50,
+      "departement": "MANCHE",
+      "nbr-adoption": 4,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": 51,
+      "departement": "MARNE",
+      "nbr-adoption": 2,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": 56,
+      "departement": "MORBIHAN",
+      "nbr-adoption": 3,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": 58,
+      "departement": "NIÈVRE",
+      "nbr-adoption": 2,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": 59,
+      "departement": "NORD",
+      "nbr-adoption": 7,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": 60,
+      "departement": "OISE",
+      "nbr-adoption": 3,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": 61,
+      "departement": "ORNE",
+      "nbr-adoption": 3,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": 75,
+      "departement": "PARIS",
+      "nbr-adoption": 13,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": 62,
+      "departement": "PAS-DE-CALAIS",
+      "nbr-adoption": 4,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": 63,
+      "departement": "PUY-DE-DOME",
+      "nbr-adoption": 2,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": 64,
+      "departement": "PYRÉNÉES-ATLANTIQUES",
+      "nbr-adoption": 2,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": 66,
+      "departement": "PYRÉNÉES-ORIENTALES",
+      "nbr-adoption": 2,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": 974,
+      "departement": "REUNION",
+      "nbr-adoption": 4,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": 69,
+      "departement": "RHÔNE",
+      "nbr-adoption": 6,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": 71,
+      "departement": "SAÔNE-ET-LOIRE",
+      "nbr-adoption": 1,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": 72,
+      "departement": "SARTHE",
+      "nbr-adoption": 1,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": 73,
+      "departement": "SAVOIE",
+      "nbr-adoption": 3,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": 77,
+      "departement": "SEINE-ET-MARNE",
+      "nbr-adoption": 7,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": 76,
+      "departement": "SEINE-MARITIME",
+      "nbr-adoption": 2,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": 93,
+      "departement": "SEINE-SAINT-DENIS",
+      "nbr-adoption": 4,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": 80,
+      "departement": "SOMME",
+      "nbr-adoption": 2,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": 81,
+      "departement": "TARN",
+      "nbr-adoption": 5,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": 90,
+      "departement": "TERRITOIRE DE BELFORT",
+      "nbr-adoption": 1,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": 95,
+      "departement": "VAL-D'OISE",
+      "nbr-adoption": 2,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": 94,
+      "departement": "VAL-DE-MARNE",
+      "nbr-adoption": 5,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": 83,
+      "departement": "VAR",
+      "nbr-adoption": 6,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": 84,
+      "departement": "VAUCLUSE",
+      "nbr-adoption": 1,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": 85,
+      "departement": "VENDÉE",
+      "nbr-adoption": 10,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": 78,
+      "departement": "YVELINES",
+      "nbr-adoption": 5,
+      "annee": 2021,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2021_vf_cle014cd1.pdf#page=14"
+    },
+    {
+      "id": "01",
+      "departement": "AIN",
+      "nbr-adoption": 2,
+      "annee": 2022,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2022_cle02db84-2.pdf#page=14"
+    },
+    {
+      "id": "03",
+      "departement": "ALLIER",
+      "nbr-adoption": 2,
+      "annee": 2022,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2022_cle02db84-2.pdf#page=14"
+    },
+    {
+      "id": "06",
+      "departement": "ALPES-MARITIMES",
+      "nbr-adoption": 3,
+      "annee": 2022,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2022_cle02db84-2.pdf#page=14"
+    },
+    {
+      "id": "07",
+      "departement": "ARDECHE",
+      "nbr-adoption": 1,
+      "annee": 2022,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2022_cle02db84-2.pdf#page=14"
+    },
+    {
+      "id": "09",
+      "departement": "ARIÈGE",
+      "nbr-adoption": 2,
+      "annee": 2022,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2022_cle02db84-2.pdf#page=14"
+    },
+    {
+      "id": 10,
+      "departement": "AUBE",
+      "nbr-adoption": 1,
+      "annee": 2022,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2022_cle02db84-2.pdf#page=14"
+    },
+    {
+      "id": 11,
+      "departement": "AUDE",
+      "nbr-adoption": 1,
+      "annee": 2022,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2022_cle02db84-2.pdf#page=14"
+    },
+    {
+      "id": 12,
+      "departement": "AVEYRON",
+      "nbr-adoption": 2,
+      "annee": 2022,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2022_cle02db84-2.pdf#page=14"
+    },
+    {
+      "id": 67,
+      "departement": "BAS-RHIN",
+      "nbr-adoption": 4,
+      "annee": 2022,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2022_cle02db84-2.pdf#page=14"
+    },
+    {
+      "id": 13,
+      "departement": "BOUCHES-DU-RHONE",
+      "nbr-adoption": 16,
+      "annee": 2022,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2022_cle02db84-2.pdf#page=14"
+    },
+    {
+      "id": 16,
+      "departement": "CHARENTE",
+      "nbr-adoption": 2,
+      "annee": 2022,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2022_cle02db84-2.pdf#page=14"
+    },
+    {
+      "id": 17,
+      "departement": "CHARENTE-MARITIME",
+      "nbr-adoption": 2,
+      "annee": 2022,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2022_cle02db84-2.pdf#page=14"
+    },
+    {
+      "id": 18,
+      "departement": "CHER",
+      "nbr-adoption": 2,
+      "annee": 2022,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2022_cle02db84-2.pdf#page=14"
+    },
+    {
+      "id": 19,
+      "departement": "CORREZE",
+      "nbr-adoption": 2,
+      "annee": 2022,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2022_cle02db84-2.pdf#page=14"
+    },
+    {
+      "id": "2A",
+      "departement": "CORSE DU SUD",
+      "nbr-adoption": 2,
+      "annee": 2022,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2022_cle02db84-2.pdf#page=14"
+    },
+    {
+      "id": 21,
+      "departement": "COTE-D'OR",
+      "nbr-adoption": 6,
+      "annee": 2022,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2022_cle02db84-2.pdf#page=14"
+    },
+    {
+      "id": 22,
+      "departement": "COTES D'ARMOR",
+      "nbr-adoption": 3,
+      "annee": 2022,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2022_cle02db84-2.pdf#page=14"
+    },
+    {
+      "id": 79,
+      "departement": "DEUX-SEVRES",
+      "nbr-adoption": 1,
+      "annee": 2022,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2022_cle02db84-2.pdf#page=14"
+    },
+    {
+      "id": 24,
+      "departement": "DORDOGNE",
+      "nbr-adoption": 3,
+      "annee": 2022,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2022_cle02db84-2.pdf#page=14"
+    },
+    {
+      "id": 25,
+      "departement": "DOUBS",
+      "nbr-adoption": 4,
+      "annee": 2022,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2022_cle02db84-2.pdf#page=14"
+    },
+    {
+      "id": 91,
+      "departement": "ESSONNE",
+      "nbr-adoption": 8,
+      "annee": 2022,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2022_cle02db84-2.pdf#page=14"
+    },
+    {
+      "id": 27,
+      "departement": "EURE",
+      "nbr-adoption": 2,
+      "annee": 2022,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2022_cle02db84-2.pdf#page=14"
+    },
+    {
+      "id": 29,
+      "departement": "FINISTERE",
+      "nbr-adoption": 12,
+      "annee": 2022,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2022_cle02db84-2.pdf#page=14"
+    },
+    {
+      "id": 30,
+      "departement": "GARD",
+      "nbr-adoption": 2,
+      "annee": 2022,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2022_cle02db84-2.pdf#page=14"
+    },
+    {
+      "id": 68,
+      "departement": "HAUT-RHIN",
+      "nbr-adoption": 2,
+      "annee": 2022,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2022_cle02db84-2.pdf#page=14"
+    },
+    {
+      "id": 31,
+      "departement": "HAUTE-GARONNE",
+      "nbr-adoption": 8,
+      "annee": 2022,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2022_cle02db84-2.pdf#page=14"
+    },
+    {
+      "id": 43,
+      "departement": "HAUTE-LOIRE",
+      "nbr-adoption": 1,
+      "annee": 2022,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2022_cle02db84-2.pdf#page=14"
+    },
+    {
+      "id": 87,
+      "departement": "HAUTE-VIENNE",
+      "nbr-adoption": 2,
+      "annee": 2022,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2022_cle02db84-2.pdf#page=14"
+    },
+    {
+      "id": "05",
+      "departement": "HAUTES-ALPES",
+      "nbr-adoption": 2,
+      "annee": 2022,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2022_cle02db84-2.pdf#page=14"
+    },
+    {
+      "id": 92,
+      "departement": "HAUTS-DE-SEINE",
+      "nbr-adoption": 7,
+      "annee": 2022,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2022_cle02db84-2.pdf#page=14"
+    },
+    {
+      "id": 34,
+      "departement": "HERAULT",
+      "nbr-adoption": 4,
+      "annee": 2022,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2022_cle02db84-2.pdf#page=14"
+    },
+    {
+      "id": 35,
+      "departement": "ILLE-ET-VILAINE",
+      "nbr-adoption": 2,
+      "annee": 2022,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2022_cle02db84-2.pdf#page=14"
+    },
+    {
+      "id": 37,
+      "departement": "INDRE-ET-LOIRE",
+      "nbr-adoption": 1,
+      "annee": 2022,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2022_cle02db84-2.pdf#page=14"
+    },
+    {
+      "id": 38,
+      "departement": "ISERE",
+      "nbr-adoption": 2,
+      "annee": 2022,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2022_cle02db84-2.pdf#page=14"
+    },
+    {
+      "id": 39,
+      "departement": "JURA",
+      "nbr-adoption": 1,
+      "annee": 2022,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2022_cle02db84-2.pdf#page=14"
+    },
+    {
+      "id": 974,
+      "departement": "LA REUNION",
+      "nbr-adoption": 1,
+      "annee": 2022,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2022_cle02db84-2.pdf#page=14"
+    },
+    {
+      "id": 40,
+      "departement": "LANDES",
+      "nbr-adoption": 3,
+      "annee": 2022,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2022_cle02db84-2.pdf#page=14"
+    },
+    {
+      "id": 42,
+      "departement": "LOIRE",
+      "nbr-adoption": 1,
+      "annee": 2022,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2022_cle02db84-2.pdf#page=14"
+    },
+    {
+      "id": 44,
+      "departement": "LOIRE-ATLANTIQUE",
+      "nbr-adoption": 11,
+      "annee": 2022,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2022_cle02db84-2.pdf#page=14"
+    },
+    {
+      "id": 46,
+      "departement": "LOT",
+      "nbr-adoption": 1,
+      "annee": 2022,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2022_cle02db84-2.pdf#page=14"
+    },
+    {
+      "id": 47,
+      "departement": "LOT-ET-GARONNE",
+      "nbr-adoption": 3,
+      "annee": 2022,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2022_cle02db84-2.pdf#page=14"
+    },
+    {
+      "id": 49,
+      "departement": "MAINE-ET-LOIRE",
+      "nbr-adoption": 4,
+      "annee": 2022,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2022_cle02db84-2.pdf#page=14"
+    },
+    {
+      "id": 50,
+      "departement": "MANCHE",
+      "nbr-adoption": 3,
+      "annee": 2022,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2022_cle02db84-2.pdf#page=14"
+    },
+    {
+      "id": 53,
+      "departement": "MAYENNE",
+      "nbr-adoption": 1,
+      "annee": 2022,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2022_cle02db84-2.pdf#page=14"
+    },
+    {
+      "id": 55,
+      "departement": "MEUSE",
+      "nbr-adoption": 1,
+      "annee": 2022,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2022_cle02db84-2.pdf#page=14"
+    },
+    {
+      "id": 57,
+      "departement": "MOSELLE",
+      "nbr-adoption": 7,
+      "annee": 2022,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2022_cle02db84-2.pdf#page=14"
+    },
+    {
+      "id": 59,
+      "departement": "NORD",
+      "nbr-adoption": 6,
+      "annee": 2022,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2022_cle02db84-2.pdf#page=14"
+    },
+    {
+      "id": 61,
+      "departement": "ORNE",
+      "nbr-adoption": 2,
+      "annee": 2022,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2022_cle02db84-2.pdf#page=14"
+    },
+    {
+      "id": 75,
+      "departement": "PARIS",
+      "nbr-adoption": 8,
+      "annee": 2022,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2022_cle02db84-2.pdf#page=14"
+    },
+    {
+      "id": 62,
+      "departement": "PAS-DE-CALAIS",
+      "nbr-adoption": 1,
+      "annee": 2022,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2022_cle02db84-2.pdf#page=14"
+    },
+    {
+      "id": 63,
+      "departement": "PUY-DE-DOME",
+      "nbr-adoption": 2,
+      "annee": 2022,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2022_cle02db84-2.pdf#page=14"
+    },
+    {
+      "id": 64,
+      "departement": "PYRENEES-ATLANTIQUES",
+      "nbr-adoption": 4,
+      "annee": 2022,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2022_cle02db84-2.pdf#page=14"
+    },
+    {
+      "id": 69,
+      "departement": "RHONE",
+      "nbr-adoption": 14,
+      "annee": 2022,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2022_cle02db84-2.pdf#page=14"
+    },
+    {
+      "id": 71,
+      "departement": "SAONE-ET-LOIRE",
+      "nbr-adoption": 1,
+      "annee": 2022,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2022_cle02db84-2.pdf#page=14"
+    },
+    {
+      "id": 72,
+      "departement": "SARTHE",
+      "nbr-adoption": 3,
+      "annee": 2022,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2022_cle02db84-2.pdf#page=14"
+    },
+    {
+      "id": 73,
+      "departement": "SAVOIE",
+      "nbr-adoption": 1,
+      "annee": 2022,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2022_cle02db84-2.pdf#page=14"
+    },
+    {
+      "id": 77,
+      "departement": "SEINE-ET-MARNE",
+      "nbr-adoption": 2,
+      "annee": 2022,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2022_cle02db84-2.pdf#page=14"
+    },
+    {
+      "id": 93,
+      "departement": "SEINE-SAINT-DENIS",
+      "nbr-adoption": 3,
+      "annee": 2022,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2022_cle02db84-2.pdf#page=14"
+    },
+    {
+      "id": 81,
+      "departement": "TARN",
+      "nbr-adoption": 2,
+      "annee": 2022,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2022_cle02db84-2.pdf#page=14"
+    },
+    {
+      "id": 90,
+      "departement": "TERRITOIRE DE BELFORT",
+      "nbr-adoption": 1,
+      "annee": 2022,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2022_cle02db84-2.pdf#page=14"
+    },
+    {
+      "id": 976,
+      "departement": "TERRITOIRE DE MAYOTTE",
+      "nbr-adoption": 3,
+      "annee": 2022,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2022_cle02db84-2.pdf#page=14"
+    },
+    {
+      "id": 94,
+      "departement": "VAL-DE-MARNE",
+      "nbr-adoption": 4,
+      "annee": 2022,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2022_cle02db84-2.pdf#page=14"
+    },
+    {
+      "id": 83,
+      "departement": "VAR",
+      "nbr-adoption": 4,
+      "annee": 2022,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2022_cle02db84-2.pdf#page=14"
+    },
+    {
+      "id": 84,
+      "departement": "VAUCLUSE",
+      "nbr-adoption": 2,
+      "annee": 2022,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2022_cle02db84-2.pdf#page=14"
+    },
+    {
+      "id": 85,
+      "departement": "VENDEE",
+      "nbr-adoption": 4,
+      "annee": 2022,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2022_cle02db84-2.pdf#page=14"
+    },
+    {
+      "id": 89,
+      "departement": "YONNE",
+      "nbr-adoption": 2,
+      "annee": 2022,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2022_cle02db84-2.pdf#page=14"
+    },
+    {
+      "id": 78,
+      "departement": "YVELINES",
+      "nbr-adoption": 10,
+      "annee": 2022,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2022_cle02db84-2.pdf#page=14"
+    },
+    {
+      "id": "01",
+      "departement": "AIN",
+      "nbr-adoption": 3,
+      "annee": 2023,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2023_cle0d3926.pdf#page=14"
+    },
+    {
+      "id": "03",
+      "departement": "ALLIER",
+      "nbr-adoption": 1,
+      "annee": 2023,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2023_cle0d3926.pdf#page=14"
+    },
+    {
+      "id": "04",
+      "departement": "ALPES DE HAUTE PROVENCE",
+      "nbr-adoption": 1,
+      "annee": 2023,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2023_cle0d3926.pdf#page=14"
+    },
+    {
+      "id": "06",
+      "departement": "ALPES-MARITIMES",
+      "nbr-adoption": 2,
+      "annee": 2023,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2023_cle0d3926.pdf#page=14"
+    },
+    {
+      "id": "07",
+      "departement": "ARDêCHE",
+      "nbr-adoption": 1,
+      "annee": 2023,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2023_cle0d3926.pdf#page=14"
+    },
+    {
+      "id": "09",
+      "departement": "ARIèGE",
+      "nbr-adoption": 3,
+      "annee": 2023,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2023_cle0d3926.pdf#page=14"
+    },
+    {
+      "id": 10,
+      "departement": "AUBE",
+      "nbr-adoption": 2,
+      "annee": 2023,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2023_cle0d3926.pdf#page=14"
+    },
+    {
+      "id": 12,
+      "departement": "AVEYRON",
+      "nbr-adoption": 3,
+      "annee": 2023,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2023_cle0d3926.pdf#page=14"
+    },
+    {
+      "id": 67,
+      "departement": "BAS-RHIN",
+      "nbr-adoption": 1,
+      "annee": 2023,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2023_cle0d3926.pdf#page=14"
+    },
+    {
+      "id": 13,
+      "departement": "BOUCHES-DU-RHôNE",
+      "nbr-adoption": 10,
+      "annee": 2023,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2023_cle0d3926.pdf#page=14"
+    },
+    {
+      "id": 14,
+      "departement": "CALVADOS",
+      "nbr-adoption": 3,
+      "annee": 2023,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2023_cle0d3926.pdf#page=14"
+    },
+    {
+      "id": 16,
+      "departement": "CHARENTE",
+      "nbr-adoption": 1,
+      "annee": 2023,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2023_cle0d3926.pdf#page=14"
+    },
+    {
+      "id": 17,
+      "departement": "CHARENTE-MARITIME",
+      "nbr-adoption": 3,
+      "annee": 2023,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2023_cle0d3926.pdf#page=14"
+    },
+    {
+      "id": 18,
+      "departement": "CHER",
+      "nbr-adoption": 1,
+      "annee": 2023,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2023_cle0d3926.pdf#page=14"
+    },
+    {
+      "id": "2A",
+      "departement": "CORSE-DU-SUD",
+      "nbr-adoption": 2,
+      "annee": 2023,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2023_cle0d3926.pdf#page=14"
+    },
+    {
+      "id": 21,
+      "departement": "CôTE-D'OR",
+      "nbr-adoption": 2,
+      "annee": 2023,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2023_cle0d3926.pdf#page=14"
+    },
+    {
+      "id": 22,
+      "departement": "CôTES D'ARMOR",
+      "nbr-adoption": 5,
+      "annee": 2023,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2023_cle0d3926.pdf#page=14"
+    },
+    {
+      "id": 23,
+      "departement": "CREUSE",
+      "nbr-adoption": 2,
+      "annee": 2023,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2023_cle0d3926.pdf#page=14"
+    },
+    {
+      "id": 79,
+      "departement": "DEUX-SèVRES",
+      "nbr-adoption": 3,
+      "annee": 2023,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2023_cle0d3926.pdf#page=14"
+    },
+    {
+      "id": 24,
+      "departement": "DORDOGNE",
+      "nbr-adoption": 1,
+      "annee": 2023,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2023_cle0d3926.pdf#page=14"
+    },
+    {
+      "id": 91,
+      "departement": "ESSONNE",
+      "nbr-adoption": 3,
+      "annee": 2023,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2023_cle0d3926.pdf#page=14"
+    },
+    {
+      "id": 29,
+      "departement": "FINISTèRE",
+      "nbr-adoption": 4,
+      "annee": 2023,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2023_cle0d3926.pdf#page=14"
+    },
+    {
+      "id": 30,
+      "departement": "GARD",
+      "nbr-adoption": 4,
+      "annee": 2023,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2023_cle0d3926.pdf#page=14"
+    },
+    {
+      "id": 32,
+      "departement": "GERS",
+      "nbr-adoption": 2,
+      "annee": 2023,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2023_cle0d3926.pdf#page=14"
+    },
+    {
+      "id": 971,
+      "departement": "GUADELOUPE",
+      "nbr-adoption": 1,
+      "annee": 2023,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2023_cle0d3926.pdf#page=14"
+    },
+    {
+      "id": 68,
+      "departement": "HAUT-RHIN",
+      "nbr-adoption": 3,
+      "annee": 2023,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2023_cle0d3926.pdf#page=14"
+    },
+    {
+      "id": 31,
+      "departement": "HAUTE-GARONNE",
+      "nbr-adoption": 3,
+      "annee": 2023,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2023_cle0d3926.pdf#page=14"
+    },
+    {
+      "id": 43,
+      "departement": "HAUTE-LOIRE",
+      "nbr-adoption": 1,
+      "annee": 2023,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2023_cle0d3926.pdf#page=14"
+    },
+    {
+      "id": 74,
+      "departement": "HAUTE-SAVOIE",
+      "nbr-adoption": 1,
+      "annee": 2023,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2023_cle0d3926.pdf#page=14"
+    },
+    {
+      "id": 87,
+      "departement": "HAUTE-VIENNE",
+      "nbr-adoption": 4,
+      "annee": 2023,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2023_cle0d3926.pdf#page=14"
+    },
+    {
+      "id": 92,
+      "departement": "HAUTS-DE-SEINE",
+      "nbr-adoption": 4,
+      "annee": 2023,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2023_cle0d3926.pdf#page=14"
+    },
+    {
+      "id": 34,
+      "departement": "HéRAULT",
+      "nbr-adoption": 3,
+      "annee": 2023,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2023_cle0d3926.pdf#page=14"
+    },
+    {
+      "id": 35,
+      "departement": "ILLE-ET-VILAINE",
+      "nbr-adoption": 1,
+      "annee": 2023,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2023_cle0d3926.pdf#page=14"
+    },
+    {
+      "id": 38,
+      "departement": "ISèRE",
+      "nbr-adoption": 4,
+      "annee": 2023,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2023_cle0d3926.pdf#page=14"
+    },
+    {
+      "id": 974,
+      "departement": "LA REUNION",
+      "nbr-adoption": 1,
+      "annee": 2023,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2023_cle0d3926.pdf#page=14"
+    },
+    {
+      "id": 40,
+      "departement": "LANDES",
+      "nbr-adoption": 3,
+      "annee": 2023,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2023_cle0d3926.pdf#page=14"
+    },
+    {
+      "id": 42,
+      "departement": "LOIRE",
+      "nbr-adoption": 1,
+      "annee": 2023,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2023_cle0d3926.pdf#page=14"
+    },
+    {
+      "id": 44,
+      "departement": "LOIRE-ATLANTIQUE",
+      "nbr-adoption": 6,
+      "annee": 2023,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2023_cle0d3926.pdf#page=14"
+    },
+    {
+      "id": 45,
+      "departement": "LOIRET",
+      "nbr-adoption": 2,
+      "annee": 2023,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2023_cle0d3926.pdf#page=14"
+    },
+    {
+      "id": 46,
+      "departement": "LOT",
+      "nbr-adoption": 1,
+      "annee": 2023,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2023_cle0d3926.pdf#page=14"
+    },
+    {
+      "id": 47,
+      "departement": "LOT-ET-GARONNE",
+      "nbr-adoption": 1,
+      "annee": 2023,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2023_cle0d3926.pdf#page=14"
+    },
+    {
+      "id": 48,
+      "departement": "LOZèRE",
+      "nbr-adoption": 1,
+      "annee": 2023,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2023_cle0d3926.pdf#page=14"
+    },
+    {
+      "id": 49,
+      "departement": "MAINE-ET-LOIRE",
+      "nbr-adoption": 1,
+      "annee": 2023,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2023_cle0d3926.pdf#page=14"
+    },
+    {
+      "id": 50,
+      "departement": "MANCHE",
+      "nbr-adoption": 2,
+      "annee": 2023,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2023_cle0d3926.pdf#page=14"
+    },
+    {
+      "id": 972,
+      "departement": "MARTINIQUE",
+      "nbr-adoption": 2,
+      "annee": 2023,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2023_cle0d3926.pdf#page=14"
+    },
+    {
+      "id": 53,
+      "departement": "MAYENNE",
+      "nbr-adoption": 2,
+      "annee": 2023,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2023_cle0d3926.pdf#page=14"
+    },
+    {
+      "id": 54,
+      "departement": "MEURTHE-ET-MOSELLE",
+      "nbr-adoption": 1,
+      "annee": 2023,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2023_cle0d3926.pdf#page=14"
+    },
+    {
+      "id": 56,
+      "departement": "MORBIHAN",
+      "nbr-adoption": 2,
+      "annee": 2023,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2023_cle0d3926.pdf#page=14"
+    },
+    {
+      "id": 57,
+      "departement": "MOSELLE",
+      "nbr-adoption": 1,
+      "annee": 2023,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2023_cle0d3926.pdf#page=14"
+    },
+    {
+      "id": 59,
+      "departement": "NORD",
+      "nbr-adoption": 6,
+      "annee": 2023,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2023_cle0d3926.pdf#page=14"
+    },
+    {
+      "id": 988,
+      "departement": "NOUVELLE-CALEDONIE",
+      "nbr-adoption": 3,
+      "annee": 2023,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2023_cle0d3926.pdf#page=14"
+    },
+    {
+      "id": 75,
+      "departement": "PARIS",
+      "nbr-adoption": 8,
+      "annee": 2023,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2023_cle0d3926.pdf#page=14"
+    },
+    {
+      "id": 63,
+      "departement": "PUY-DE-DôME",
+      "nbr-adoption": 3,
+      "annee": 2023,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2023_cle0d3926.pdf#page=14"
+    },
+    {
+      "id": 64,
+      "departement": "PYRéNéES-ATLANTIQUES",
+      "nbr-adoption": 3,
+      "annee": 2023,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2023_cle0d3926.pdf#page=14"
+    },
+    {
+      "id": 69,
+      "departement": "RHôNE",
+      "nbr-adoption": 6,
+      "annee": 2023,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2023_cle0d3926.pdf#page=14"
+    },
+    {
+      "id": 72,
+      "departement": "SARTHE",
+      "nbr-adoption": 1,
+      "annee": 2023,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2023_cle0d3926.pdf#page=14"
+    },
+    {
+      "id": 77,
+      "departement": "SEINE-ET-MARNE",
+      "nbr-adoption": 4,
+      "annee": 2023,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2023_cle0d3926.pdf#page=14"
+    },
+    {
+      "id": 93,
+      "departement": "SEINE-SAINT-DENIS",
+      "nbr-adoption": 3,
+      "annee": 2023,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2023_cle0d3926.pdf#page=14"
+    },
+    {
+      "id": 80,
+      "departement": "SOMME",
+      "nbr-adoption": 1,
+      "annee": 2023,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2023_cle0d3926.pdf#page=14"
+    },
+    {
+      "id": 81,
+      "departement": "TARN",
+      "nbr-adoption": 4,
+      "annee": 2023,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2023_cle0d3926.pdf#page=14"
+    },
+    {
+      "id": 95,
+      "departement": "VAL-D'OISE",
+      "nbr-adoption": 2,
+      "annee": 2023,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2023_cle0d3926.pdf#page=14"
+    },
+    {
+      "id": 94,
+      "departement": "VAL-DE-MARNE",
+      "nbr-adoption": 4,
+      "annee": 2023,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2023_cle0d3926.pdf#page=14"
+    },
+    {
+      "id": 83,
+      "departement": "VAR",
+      "nbr-adoption": 5,
+      "annee": 2023,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2023_cle0d3926.pdf#page=14"
+    },
+    {
+      "id": 85,
+      "departement": "VENDéE",
+      "nbr-adoption": 3,
+      "annee": 2023,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2023_cle0d3926.pdf#page=14"
+    },
+    {
+      "id": 78,
+      "departement": "YVELINES",
+      "nbr-adoption": 5,
+      "annee": 2023,
+      "source": "https://www.diplomatie.gouv.fr/IMG/pdf/statistiques_2023_cle0d3926.pdf#page=14"
+    }
+  ]
