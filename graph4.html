@@ -1,31 +1,35 @@
 <!DOCTYPE html>
 <html lang="fr">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Graphique 4</title>
     <link rel="stylesheet" href="style.css">
 </head>
-<body>
-    <div id="selection">
-        <div class="slidecontainer">
-            <input type="range" min="2012" max="2022" value="2004" class="slider" id="range">
-          </div>
-        <button id="acc">Pays d'accueil</button>
-        <button id="ori">Pays d'origine</button>
-    </div>
 
-    <h1>En <span id="txt-annee"></span></h1>
-    <div id="texte"></div>
+<body>
+    <h1><span id="texte">Top 10 des pays qui ont effectué des adoptions dans le monde en </span><span
+            class='current-year'></span></h1>
 
     <div class="graph">
         <svg id="chart" height="500" width="800" viewBox="0 0 800 500">
         </svg>
     </div>
 
+    <div class="slidecontainer">
+        <input type="range" min="2013" max="2022" class="slider" id="range">
+    </div>
     
-<script src=" https://cdn.jsdelivr.net/npm/chart.js@4.4.6/dist/chart.umd.min.js "></script>
+    <div class="buttons">
+        <button id="acc">Pays d'accueil</button>
+        <button id="ori">Pays d'origine</button>
+    </div>
+
+
+    <script src=" https://cdn.jsdelivr.net/npm/chart.js@4.4.6/dist/chart.umd.min.js "></script>
     <script src="graph4.js"></script>
-    
+
 </body>
+
 </html>
