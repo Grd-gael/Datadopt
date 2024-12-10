@@ -1,3 +1,4 @@
+
 *,
 *::after,
 *::before {
@@ -8,12 +9,11 @@
     --white: #fff;
     --black: #000;
     --lightblue: #3FBEBE;
-    --blue: #3E7ED2;
+    --blue: #2D6CBE;
     --darkblue: #123E82;
     --purple: #6D65B2;
     --lightpurple: #A092CD;
     --ivoire: #F4F0E3;
-
 }
 
 header {
@@ -392,7 +392,6 @@ img.transition{
 }
 
 
-
 /* ---- Interractive Map ---- */
 
 .map{
@@ -421,6 +420,48 @@ img.transition{
     stroke: var(--darkblue);
     transition: fill 0.3s;
 }
+
+
+
+
+
+/* Graphique 4 */
+.graph {
+    display: flex;
+    justify-content: center;
+}
+
+.barre {
+    fill: var(--lightblue);
+}
+
+.barre:nth-of-type(even){
+    fill: #1e8888;
+}
+
+.buttons {
+    display: flex;
+    background-color: var(--lightblue);
+    width: 400px;
+    padding: 5px;
+    border-radius: 25px;
+}
+
+button {
+    background-color: #1e8888;
+    border: none;
+    color: var(--ivoire);
+    border-radius: 25px;
+    padding: 10px;
+    text-transform: uppercase;
+    width: 200px;
+}
+
+#ori {
+    margin-left: auto;
+
+}
+
 
 /* ---- Chargement ---- */
 
