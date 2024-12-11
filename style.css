@@ -334,7 +334,7 @@ span.section1-year{
     width: 30vw;
 }
 
-img.transition{
+svg.transition-nuage{
     width: 100%;
     position: relative;
     bottom: 165px;
@@ -419,7 +419,7 @@ img.transition{
 
 .map>svg>path{
     fill: var(--blue);
-    stroke: var(--darkblue);
+    stroke: var(--lightblue);
     transition: fill 0.3s;
 }
 

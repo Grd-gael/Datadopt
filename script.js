@@ -55,19 +55,19 @@ const InfoDepartement = document.getElementById('info-departement');
 
 // Animer les changements de nombre
 
-function AnimNumber(balise, nombre){
-    if (parseInt(balise.innerHTML) >= nombre){
+function AnimNumber(balise, nombre) {
+    if (parseInt(balise.innerHTML) >= nombre) {
         const interval = setInterval(() => {
-            if (parseInt(balise.innerHTML) > nombre){
+            if (parseInt(balise.innerHTML) > nombre) {
                 balise.innerHTML = parseInt(balise.innerHTML) - 1;
             } else {
                 clearInterval(interval);
             }
         }, 100);
     }
-    else if (parseInt(balise.innerHTML) < nombre){
+    else if (parseInt(balise.innerHTML) < nombre) {
         const interval = setInterval(() => {
-            if (parseInt(balise.innerHTML) < nombre){
+            if (parseInt(balise.innerHTML) < nombre) {
                 balise.innerHTML = parseInt(balise.innerHTML) + 1;
             } else {
                 clearInterval(interval);
@@ -77,14 +77,14 @@ function AnimNumber(balise, nombre){
 }
 
 // Initialiser le nombre d'adoptions pour l'année en cours
-function InitSomme(data){
-    let sommeAdoptions= 0;
+function InitSomme(data) {
+    let sommeAdoptions = 0;
     data.forEach(dep => {
-        if (dep.annee == CurrentYear){
+        if (dep.annee == CurrentYear) {
             sommeAdoptions++;
         }
     })
-    section1Number.innerHTML=sommeAdoptions;
+    section1Number.innerHTML = sommeAdoptions;
     SpanYear.forEach(span => {
         span.innerHTML = CurrentYear;
     });
@@ -92,10 +92,10 @@ function InitSomme(data){
 
 
 //  Mettre à jour le nombre d'adoptions pour l'année en cours
-function UpdateSomme(data){
-    let sommeAdoptions= 0;
+function UpdateSomme(data) {
+    let sommeAdoptions = 0;
     data.forEach(dep => {
-        if (dep.annee == CurrentYear){
+        if (dep.annee == CurrentYear) {
             sommeAdoptions++
         }
     })
@@ -104,7 +104,7 @@ function UpdateSomme(data){
 }
 
 // Mettre à jour l'année
-function UpdateYear(){
+function UpdateYear() {
     SpanYear.forEach(span => {
         span.innerHTML = CurrentYear;
     })
@@ -116,12 +116,17 @@ function UpdateMap(data) {
     // Récupérer tous les éléments SVG ayant un ID correspondant à un département
     let allPaths = document.querySelectorAll('[id^="FR-"]');
 
+    // Détermine le nombre maximum d'adoptions pour l'année en cours
+    let maxAdoptions = Math.max(...data.filter(dep => dep.annee == CurrentYear).map(dep => dep['nbr-adoption']));
+
     allPaths.forEach(path => {
         let departementId = path.id.replace('FR-', '');
         let departement = data.find(dep => dep.id == departementId && dep.annee == CurrentYear);
         if (departement) {
             if (departement['nbr-adoption'] > 0) {
-                path.style.fill = 'var(--blue)';
+                let intensity = 255 - Math.floor((departement['nbr-adoption'] / maxAdoptions) * 255); 
+
+                path.style.fill = `rgb(150, 0, ${intensity})`; // Couleur en niveaux de gris
             } else {
                 path.style.fill = 'black';
             }
@@ -138,13 +143,13 @@ const tooltip = document.getElementById('info-departement');
 Departement.forEach(departement => {
 
     departement.addEventListener('mouseenter', (event) => {
-        originalFill = departement.style.fill; 
+        originalFill = departement.style.fill;
         if (departement.style.fill == 'black') {
             departement.style.fill = '#000058';
         }
-        else{
-        departement.style.fill = 'var(--ivoire)';
-        } 
+        else {
+            departement.style.fill = 'var(--ivoire)';
+        }
 
         const departementId = event.target.id.replace('FR-', '');
         const departementData = DataDepartement.find(d => d.id == departementId && d.annee == CurrentYear);
@@ -172,11 +177,11 @@ Departement.forEach(departement => {
 
 fetch('data-age.json').then(response => response.json()).then(function (data) {
     DataAge = data;
-    AfficheAge.innerHTML="0 à 6 mois";
+    AfficheAge.innerHTML = "0 à 6 mois";
     ButtonSubstractAge.disabled = true;
     ButtonSubstractAge.style.backgroundColor = "var(--darkblue)";
     ButtonSubstractAge.style.color = "var(--ivoire)";
-    UpdateGraphe2(DataAnnee);
+    UpdateGraphe2(DataAge);
 });
 
 
@@ -192,15 +197,15 @@ ButtonAddAge.addEventListener('click', () => {
     ButtonSubstractAge.style.color = "var(--darkblue)";
     Age++;
     console.log(Age);
-    AfficheAge.innerHTML=Age + " ans";
-    if (Age==0){
-        AfficheAge.innerHTML="6 à 12 mois";
+    AfficheAge.innerHTML = Age + " ans";
+    if (Age == 0) {
+        AfficheAge.innerHTML = "6 à 12 mois";
     }
-    if (Age==5){
-        AfficheAge.innerHTML="5 et 6 ans";
+    if (Age == 5) {
+        AfficheAge.innerHTML = "5 et 6 ans";
     }
-    if (Age==6){
-        AfficheAge.innerHTML="7 ans et +";
+    if (Age == 6) {
+        AfficheAge.innerHTML = "7 ans et +";
         ButtonAddAge.disabled = true;
         ButtonAddAge.style.backgroundColor = "var(--darkblue)";
         ButtonAddAge.style.color = "var(--ivoire)";
@@ -214,28 +219,31 @@ ButtonSubstractAge.addEventListener('click', () => {
     ButtonAddAge.style.color = "var(--darkblue)";
     Age--;
     console.log(Age);
-    AfficheAge.innerHTML=Age + " ans";
-    if (Age==0){
-        AfficheAge.innerHTML="6 à 12 mois";
+    AfficheAge.innerHTML = Age + " ans";
+    if (Age == 0) {
+        AfficheAge.innerHTML = "6 à 12 mois";
     }
-    if (Age==-1){
-        AfficheAge.innerHTML="0 à 6 mois";
+    if (Age == -1) {
+        AfficheAge.innerHTML = "0 à 6 mois";
         ButtonSubstractAge.disabled = true;
         ButtonSubstractAge.style.backgroundColor = "var(--darkblue)";
         ButtonSubstractAge.style.color = "var(--ivoire)";
     }
-    if (Age==5){
-        AfficheAge.innerHTML="5 et 6 ans";
+    if (Age == 5) {
+        AfficheAge.innerHTML = "5 et 6 ans";
     }
     UpdateGraphe2(DataAge);
 });
 
-const AdopParAge= document.getElementById('adop-par-age');
+const AdopParAge = document.getElementById('adop-par-age');
 
-function UpdateGraphe2(data){
-    data.forEach(age => {
-        if (age.id_age_enfant == Age){
-            AdopParAge.innerHTML = age[`${CurrentYear}`];
+function UpdateGraphe2(dataAge) {
+    // if (dataAge.find(age => age.id_age_enfant === Age)) {
+    //     AdopParAge.innerHTML = dataAge[CurrentYear];
+    // }
+    dataAge.forEach(age => {
+        if (age.id_age_enfant === Age) {
+            AdopParAge.innerHTML = age[CurrentYear];
         }
     });
 };
