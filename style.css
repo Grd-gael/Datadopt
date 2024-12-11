@@ -459,19 +459,24 @@ svg.transition-nuage{
     background-repeat: no-repeat;
 }
 
-
 .graphe-age{
+    background-color: var(--white);
+    border-radius: 20px;
+    position: relative;
+    height: 70vh;
+    width: 80vw;
+    top: 70vh;
+    left: 10vw;
+}
+
+
+.flex{
     display: flex;
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
-    background-color: var(--white);
-    border-radius: 20px;
     height: 70vh;
     width: 80vw;
-    position: relative;
-    top: 70vh;
-    left: 10vw;
 }
 
 
@@ -511,14 +516,16 @@ svg.transition-nuage{
 
 
 .analyse-age{
+    position: relative;
+    top: 70vh;
+    left: 20vw;
     font-family: "Metrophobic", sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 1.5rem;
     color: var(--white);
-    width: 50vw;
+    width: 60vw;
     line-height: 2rem;
-    background-color: #3FBEBE;
     padding: 20px;
     border-radius: 20px;
 }
