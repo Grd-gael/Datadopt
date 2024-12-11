@@ -3,7 +3,7 @@
 *::before {
     box-sizing: border-box;
 }
-
+ 
 :root {
     --white: #fff;
     --black: #000;
@@ -513,7 +513,6 @@ img.transition{
 
 /* ---- Graphique 4 ---- */
 
-/* Graphique 4 */
 .graph {
     display: flex;
     justify-content: center;
