@@ -459,23 +459,24 @@ svg.transition-nuage{
     background-repeat: no-repeat;
 }
 
-.h2-section2{
-    position: absolute;
+.graphe-age{
+    background-color: var(--white);
+    border-radius: 20px;
+    position: relative;
+    height: 70vh;
+    width: 80vw;
+    top: 70vh;
+    left: 10vw;
 }
 
 
-.graphe-age{
+.flex{
     display: flex;
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
-    background-color: var(--white);
-    border-radius: 20px;
     height: 70vh;
     width: 80vw;
-    position: relative;
-    top: 70vh;
-    left: 10vw;
 }
 
 
