@@ -10,7 +10,7 @@ const buttonOri = document.getElementById("ori")
 const buttons = document.querySelector('.buttons')
 
 const animationBarres = [
-  { transform: "translateX(100px)scale(0,1)" },
+  { transform: "translateX(120px)scale(0,1)" },
   { transform: "translateX(0%)scale(1,1)" },
 ];
 
@@ -64,7 +64,7 @@ function changeColor(color) {
 }
 
 function dessineBarre(svg, n, height, width, margin) {
-  var barre = `<path class="barre" data-value="${height}" d="M 100 ${margin * n} L ${height / 5 + 100} ${margin * n} L ${height / 5 + 100} ${width + margin * n} L 100 ${width + margin * n} L 100 ${margin * n}"/>`
+  var barre = `<path class="barre" data-value="${height}" d="M 120 ${margin * n} L ${height / 5 + 120} ${margin * n} L ${height / 5 + 120} ${width + margin * n} L 120 ${width + margin * n} L 120 ${margin * n}"/>`
 
   svg.innerHTML += barre;
 }
@@ -78,7 +78,7 @@ function dessineHistogramme(id, barres, b_width, margin, labels) {
     svg.innerHTML += `<text class="label" x=0 y=${n * 32 + 20}>${labels[n]}</text>`;
     dessineBarre(svg, n, barre, b_width, margin);
 
-    let valueXposition = barre / 5 + 115 > svgWidth - 50 ? svgWidth - 50 : barre / 5 + 115
+    let valueXposition = barre / 5 + 135 > svgWidth - 50 ? svgWidth - 50 : barre / 5 + 135
 
     svg.innerHTML += `<text x="${valueXposition}" y="${n * 32 + 20}" class="value">${barre}</text>`;
     n++;
@@ -168,4 +168,10 @@ slider.addEventListener('input', function (e) {
   dessineHistogramme('chart', currentData[1], 32, 32, currentData[0])
 
   animation()
+
+  if (dataSet == donneesAdoptionAccueil){
+    changeColor('blue')
+  } else {
+    changeColor('purple')
+  }
 })

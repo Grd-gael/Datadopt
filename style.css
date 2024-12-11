@@ -513,9 +513,26 @@ img.transition{
 
 /* ---- Graphique 4 ---- */
 
+.section4 {
+    background-color: white;
+    max-width: 1106px;
+    margin: auto auto 1000px auto;
+    border-radius: 120px;
+    position: relative;
+}
+
 .graph {
     display: flex;
     justify-content: center;
+    align-items: center;
+    width: fit-content;
+    margin: auto;
+    padding: 20px;
+    flex-direction: column;
+}
+
+text {
+    font-family: "Metrophobic", sans-serif;
 }
 
 .barre {
@@ -532,6 +549,8 @@ img.transition{
     width: 400px;
     padding: 5px;
     border-radius: 25px;
+    position: absolute;
+    bottom: -5%;
 }
 
 button {
