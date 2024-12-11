@@ -1,6 +1,6 @@
 const labels = document.querySelectorAll('.section3 .label')
 const values = document.querySelectorAll('.section3 .value')
-const rects = document.querySelectorAll('rect')
+const rects = document.querySelectorAll('.section3 rect')
 const total = document.querySelector('.nb_adoptions')
 let dataPodium
 
