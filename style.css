@@ -548,18 +548,21 @@ svg.transition-nuage{
 }
 
 .section3 .wrapper {
+    padding: 15px;
     margin: auto;
     display: flex;
     justify-content: space-between;
     align-items: center;
     width: fit-content;
     gap: 100px;
+    flex-wrap: wrap-reverse;
 }
 
 .section3 p {
     width: 250px;
     text-align: center;
     font-size: larger;
+    margin: auto;
 }
 
 .section3 .current-year, .nb_adoptions {
