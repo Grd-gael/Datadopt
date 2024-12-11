@@ -126,7 +126,7 @@ function UpdateMap(data) {
             if (departement['nbr-adoption'] > 0) {
                 let intensity = 255 - Math.floor((departement['nbr-adoption'] / maxAdoptions) * 255); 
 
-                path.style.fill = `rgb(150, 0, ${intensity})`; // Couleur en niveaux de gris
+                path.style.fill = `rgb(130, 170, ${intensity})`; // Couleur en niveaux de gris
             } else {
                 path.style.fill = 'black';
             }

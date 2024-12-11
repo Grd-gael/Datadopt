@@ -417,8 +417,8 @@ svg.transition-nuage{
 }
 
 .map>svg>path{
-    fill: var(--blue);
-    stroke: var(--lightblue);
+    /* fill: var(--blue); */
+    stroke: var(--darkblue);
     transition: fill 0.3s;
 }
 
