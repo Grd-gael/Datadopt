@@ -25,16 +25,12 @@ const timing = {
   iterations: 1,
 };
 
-function compareNombres(a, b) {
-  return a - b;
-}
-
 function animation() {
   document.querySelectorAll('.barre').forEach(function (barre) {
     barre.animate(animationBarres, timing)
   })
 
-  document.querySelectorAll('.value').forEach(function (value) {
+  document.querySelectorAll('.section4 .value').forEach(function (value) {
     value.animate(animationValeurs, timing)
   })
 }
@@ -130,7 +126,7 @@ buttonAcc.addEventListener("click", function (e) {
 
   dataSet = donneesAdoptionAccueil
   currentData = getDataSet10(dataSet, slider.value);
-  texte.innerHTML = "Top 10 des pays ayant effectué des adoptions dans le monde en "
+  texte.innerHTML = "Top 10 des pays ayant effectué le plus d'adoptions dans le monde en "
 
   output = document.querySelector(".current-year");
   output.innerHTML = slider.value;
