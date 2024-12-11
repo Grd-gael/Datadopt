@@ -23,13 +23,14 @@ range.addEventListener('input', (e) => {
     RangeValue.innerHTML = range.value;
     CurrentYear = range.value;
     UpdateYear(DataDepartement);
+    UpdateSomme(DataDepartement);
     UpdateMap(DataDepartement);
     UpdateGraphe2(DataAge);
 });
 
-range.addEventListener('change', (e) => {
-    UpdateSomme(DataDepartement);
-});
+// range.addEventListener('change', (e) => {
+//     UpdateSomme(DataDepartement);
+// });
 
 
 // Graphique 1 Map
@@ -55,33 +56,33 @@ const InfoDepartement = document.getElementById('info-departement');
 
 // Animer les changements de nombre
 
-function AnimNumber(balise, nombre) {
-    if (parseInt(balise.innerHTML) >= nombre) {
-        const interval = setInterval(() => {
-            if (parseInt(balise.innerHTML) > nombre) {
-                balise.innerHTML = parseInt(balise.innerHTML) - 1;
-            } else {
-                clearInterval(interval);
-            }
-        }, 100);
-    }
-    else if (parseInt(balise.innerHTML) < nombre) {
-        const interval = setInterval(() => {
-            if (parseInt(balise.innerHTML) < nombre) {
-                balise.innerHTML = parseInt(balise.innerHTML) + 1;
-            } else {
-                clearInterval(interval);
-            }
-        }, 90);
-    }
-}
+// function AnimNumber(balise, nombre) {
+//     if (parseInt(balise.innerHTML) >= nombre) {
+//         const interval = setInterval(() => {
+//             if (parseInt(balise.innerHTML) > nombre) {
+//                 balise.innerHTML = parseInt(balise.innerHTML) - 1;
+//             } else {
+//                 clearInterval(interval);
+//             }
+//         }, 10);
+//     }
+//     else if (parseInt(balise.innerHTML) < nombre) {
+//         const interval = setInterval(() => {
+//             if (parseInt(balise.innerHTML) < nombre) {
+//                 balise.innerHTML = parseInt(balise.innerHTML) + 1;
+//             } else {
+//                 clearInterval(interval);
+//             }
+//         }, 5);
+//     }
+// }
 
 // Initialiser le nombre d'adoptions pour l'année en cours
 function InitSomme(data) {
     let sommeAdoptions = 0;
     data.forEach(dep => {
         if (dep.annee == CurrentYear) {
-            sommeAdoptions++;
+            sommeAdoptions+=dep['nbr-adoption'];
         }
     })
     section1Number.innerHTML = sommeAdoptions;
@@ -96,11 +97,12 @@ function UpdateSomme(data) {
     let sommeAdoptions = 0;
     data.forEach(dep => {
         if (dep.annee == CurrentYear) {
-            sommeAdoptions++
+            sommeAdoptions+=dep['nbr-adoption'];
         }
     })
+    section1Number.innerHTML = sommeAdoptions;
     // console.log(parseInt(section1Number.innerHTML)+2);
-    AnimNumber(section1Number, sommeAdoptions);
+    // AnimNumber(section1Number, sommeAdoptions);
 }
 
 // Mettre à jour l'année
@@ -180,7 +182,7 @@ fetch('data-age.json').then(response => response.json()).then(function (data) {
     AfficheAge.innerHTML = "0 à 6 mois";
     ButtonSubstractAge.disabled = true;
     ButtonSubstractAge.style.backgroundColor = "var(--darkblue)";
-    ButtonSubstractAge.style.color = "var(--ivoire)";
+    ButtonSubstractAge.style.color = "var(--blue)";
     UpdateGraphe2(DataAge);
 });
 
@@ -195,6 +197,7 @@ ButtonAddAge.addEventListener('click', () => {
     ButtonSubstractAge.disabled = false;
     ButtonSubstractAge.style.backgroundColor = "var(--lightblue)";
     ButtonSubstractAge.style.color = "var(--darkblue)";
+    ButtonSubstractAge.classList.add('btn-active');
     Age++;
     console.log(Age);
     AfficheAge.innerHTML = Age + " ans";
@@ -208,7 +211,8 @@ ButtonAddAge.addEventListener('click', () => {
         AfficheAge.innerHTML = "7 ans et +";
         ButtonAddAge.disabled = true;
         ButtonAddAge.style.backgroundColor = "var(--darkblue)";
-        ButtonAddAge.style.color = "var(--ivoire)";
+        ButtonAddAge.style.color = "var(--blue)";
+        ButtonAddAge.classList.remove('btn-active');
     }
     UpdateGraphe2(DataAge);
 });
@@ -217,6 +221,7 @@ ButtonSubstractAge.addEventListener('click', () => {
     ButtonAddAge.disabled = false;
     ButtonAddAge.style.backgroundColor = "var(--lightblue)";
     ButtonAddAge.style.color = "var(--darkblue)";
+    ButtonAddAge.classList.add('btn-active');
     Age--;
     console.log(Age);
     AfficheAge.innerHTML = Age + " ans";
@@ -227,7 +232,8 @@ ButtonSubstractAge.addEventListener('click', () => {
         AfficheAge.innerHTML = "0 à 6 mois";
         ButtonSubstractAge.disabled = true;
         ButtonSubstractAge.style.backgroundColor = "var(--darkblue)";
-        ButtonSubstractAge.style.color = "var(--ivoire)";
+        ButtonSubstractAge.style.color = "var(--blue)";
+        ButtonSubstractAge.classList.remove('btn-active');
     }
     if (Age == 5) {
         AfficheAge.innerHTML = "5 et 6 ans";

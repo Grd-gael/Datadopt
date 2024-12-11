@@ -1,5 +1,4 @@
-{
-"adoptions par-âge-adoption":[
+[
  {
   "id_age_enfant": -1,
   "age_enfant": "0 à 6 mois",
@@ -169,4 +168,3 @@
   "2023": 57
  }
 ]
-}
