@@ -335,9 +335,8 @@ span.section1-year{
 }
 
 svg.transition-nuage{
-    width: 100%;
-    position: relative;
-    bottom: 165px;
+    width: 100vw;
+
 }
 
 
