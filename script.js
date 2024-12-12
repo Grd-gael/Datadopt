@@ -191,7 +191,6 @@ let Age = -1;
 
 fetch('data-age.json').then(response => response.json()).then(function (data) {
     DataAge = data;
-    Enfant.setAttribute('src', '/img/graph2/-1.png')
     AfficheAge.innerHTML = "0 à 6 mois";
     ButtonSubstractAge.disabled = true;
     ButtonSubstractAge.style.backgroundColor = "var(--darkblue)";
