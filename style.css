@@ -134,7 +134,7 @@ p{
 }
 
 .lien-sources:hover{
-    color: var(--purple);
+    color: var(--lightpurple);
 }
 
 @media screen and (max-width: 950px){
@@ -232,7 +232,7 @@ input[type=range] {
 
   input[type=range]::-webkit-slider-thumb {
     box-shadow: 3px 3px 3px var(--lightblue);
-    height: 50px;
+    height: 50px !important;
     width: 15px;
     border-radius: 20px;
     background: var(--lightblue);
@@ -588,8 +588,8 @@ svg.transition-nuage{
     transform-origin: bottom;
 }
 
-.poidum-img{
-    transform: scale(2);
+.podium-img{
+    transform: scale(3.33, 2);
 }
 
 .label {
