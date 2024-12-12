@@ -55,6 +55,10 @@ header a:hover::after {
 body {
     margin: 0;
     padding: 0;
+    background-image: url(img/ligne.svg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: 0 200vh;
     background-color: var(--darkblue);
     overflow-x: hidden;
 }
@@ -656,7 +660,21 @@ button {
 
 #ori {
     margin-left: auto;
+}
 
+.etoiles {
+    padding-top: 225px;
+    background-image: url(img/etoiles.png);
+    background-repeat: no-repeat;
+    background-size: 500px;
+    background-position: top right;
+}
+
+.bg-planetes {
+    background-image:url(img/planete-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: 0 150px;
 }
 
 /* ---- Chargement ---- */
