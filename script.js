@@ -1,13 +1,11 @@
 const loader = document.querySelector('.loader');
 
-function fadeOut()
-{
+function fadeOut() {
     loader.classList.add('fadeOut');
 }
- setTimeout(fadeOut, 3000); 
+setTimeout(fadeOut, 3000);
 
-function displayNone()
-{
+function displayNone() {
     loader.style.display = 'none';
 }
 
@@ -89,7 +87,7 @@ function InitSomme(data) {
     let sommeAdoptions = 0;
     data.forEach(dep => {
         if (dep.annee == CurrentYear) {
-            sommeAdoptions+=dep['nbr-adoption'];
+            sommeAdoptions += dep['nbr-adoption'];
         }
     })
     section1Number.innerHTML = sommeAdoptions;
@@ -104,7 +102,7 @@ function UpdateSomme(data) {
     let sommeAdoptions = 0;
     data.forEach(dep => {
         if (dep.annee == CurrentYear) {
-            sommeAdoptions+=dep['nbr-adoption'];
+            sommeAdoptions += dep['nbr-adoption'];
         }
     })
     section1Number.innerHTML = sommeAdoptions;
@@ -133,7 +131,7 @@ function UpdateMap(data) {
         let departement = data.find(dep => dep.id == departementId && dep.annee == CurrentYear);
         if (departement) {
             if (departement['nbr-adoption'] > 0) {
-                let intensity = 255 - Math.floor((departement['nbr-adoption'] / maxAdoptions) * 255); 
+                let intensity = 255 - Math.floor((departement['nbr-adoption'] / maxAdoptions) * 255);
 
                 path.style.fill = `rgb(130, 170, ${intensity})`; // Couleur en niveaux de gris
             } else {
@@ -194,7 +192,7 @@ let Age = -1;
 
 fetch('data-age.json').then(response => response.json()).then(function (data) {
     DataAge = data;
-    Enfant.setAttribute('height',EnfantHeight+25*Age)
+    Enfant.setAttribute('height', EnfantHeight + 25 * Age)
     AfficheAge.innerHTML = "0 à 6 mois";
     ButtonSubstractAge.disabled = true;
     ButtonSubstractAge.style.backgroundColor = "var(--darkblue)";
@@ -211,11 +209,11 @@ ButtonAddAge.addEventListener('click', () => {
     ButtonSubstractAge.style.color = "var(--darkblue)";
     ButtonSubstractAge.classList.add('btn-active');
     Age++;
-    Enfant.setAttribute('height',Age*25+EnfantHeight)
+    Enfant.setAttribute('height', Age * 25 + EnfantHeight)
     AfficheAge.innerHTML = Age + " ans";
     if (Age == 0) {
         AfficheAge.innerHTML = "6 à 12 mois";
-        
+
     }
     if (Age == 5) {
         AfficheAge.innerHTML = "5 et 6 ans";
@@ -236,7 +234,7 @@ ButtonSubstractAge.addEventListener('click', () => {
     ButtonAddAge.style.color = "var(--darkblue)";
     ButtonAddAge.classList.add('btn-active');
     Age--;
-    Enfant.setAttribute('height',EnfantHeight+Age*25)
+    Enfant.setAttribute('height', EnfantHeight + Age * 25)
     AfficheAge.innerHTML = Age + " ans";
     if (Age == 0) {
         AfficheAge.innerHTML = "6 à 12 mois";
@@ -263,9 +261,48 @@ function UpdateGraphe2(dataAge) {
     // }
     dataAge.forEach(age => {
         if (age.id_age_enfant === Age) {
-            const gradientHeight = Math.min(100, (age[CurrentYear]/ 100) * 100);
+            const gradientHeight = Math.min(100, (age[CurrentYear] / 100) * 100);
             AdopParAge.innerHTML = age[CurrentYear];
             gradientCircle.style.background = `linear-gradient(180deg,rgba(255, 255, 255, 1) ${100 - gradientHeight}%,var(--blue) 100%)`;
         }
     });
 };
+
+
+
+// Popup Crédits 
+
+
+const popupContainer = document.getElementById('popup-container');
+const openPopupBtn = document.querySelector('button#credits');
+const closeBtn = document.querySelector('.close-btn');
+
+openPopupBtn.addEventListener('mousedown', () => {
+    popupContainer.style.display = 'flex';
+});
+
+closeBtn.addEventListener('click', () => {
+    popupContainer.style.display = 'none';
+});
+
+window.addEventListener('click', (e) => {
+    if (e.target === popupContainer) {
+        popupContainer.style.display = 'none';
+    }
+});
+
+// Back to top button
+
+const backToTopBtn = document.querySelector('.back-to-top');
+
+
+window.addEventListener('scroll', () => {
+    if (window.scrollY > 200) {
+        backToTopBtn.style.display = 'block';
+    } else {
+        backToTopBtn.style.display = 'none';
+    }
+});
+backToTopBtn.addEventListener('click', () => {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+});
