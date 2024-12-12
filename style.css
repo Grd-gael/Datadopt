@@ -116,6 +116,21 @@ p{
     font-style: normal; 
 }
 
+.lien-sources{
+    font-family: "Metrophobic", sans-serif;
+    font-weight: 400;
+    font-style: normal; 
+    text-decoration: underline;
+    color: var(--ivoire);
+    position: relative;
+    bottom: 150px;
+    left: 200px;
+}
+
+.lien-sources:hover{
+    color: var(--purple);
+}
+
 @media screen and (max-width: 950px){
 
     header{
