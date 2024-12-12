@@ -242,6 +242,7 @@ ButtonSubstractAge.addEventListener('click', () => {
 });
 
 const AdopParAge = document.getElementById('adop-par-age');
+const gradientCircle = document.querySelector('.gradient-circle');
 
 function UpdateGraphe2(dataAge) {
     // if (dataAge.find(age => age.id_age_enfant === Age)) {
@@ -249,7 +250,9 @@ function UpdateGraphe2(dataAge) {
     // }
     dataAge.forEach(age => {
         if (age.id_age_enfant === Age) {
+            const gradientHeight = Math.min(100, (age[CurrentYear]/ 100) * 100);
             AdopParAge.innerHTML = age[CurrentYear];
+            gradientCircle.style.background = `linear-gradient(180deg,rgba(255, 255, 255, 1) ${100 - gradientHeight}%,rgba(151, 71, 255, 1) 100%)`;
         }
     });
 };
