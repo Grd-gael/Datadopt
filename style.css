@@ -128,7 +128,7 @@ p{
 }
 
 .lien-sources:hover{
-    color: var(--purple);
+    color: var(--lightblue);
 }
 
 @media screen and (max-width: 950px){
@@ -309,6 +309,9 @@ input[type=range] {
     justify-content: center;
     align-items: center;
     border: 1px solid var(--ivoire);
+    border-bottom: none;
+    border-right: none;
+    border-left: none;
 }
 
 
@@ -410,6 +413,10 @@ svg.transition-nuage{
 
 /* ---- Interractive Map ---- */
 
+.titre-map{
+    position: relative;
+    top: 50px;
+}
 .map{
     display: flex;
     justify-content: center;
