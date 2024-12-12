@@ -56,3 +56,11 @@ slider.addEventListener('input', function (e) {
     displayData(dataPodium)
     total.innerHTML = totalAdoptions(dataPodium)
 })
+
+
+fetch('data-drapeaux.json').then(response => {
+    response.json().then(function (data) {
+        dataDrapeaux = data
+        
+    })
+})
