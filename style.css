@@ -548,13 +548,12 @@ svg.transition-nuage {
 
 .btn-age {
     font-size: 3rem;
-    height: 60px;
-    width: 60px;
+    height: 64px;
+    width: 64px;
     background-color: var(--lightblue);
     border: none;
     text-align: center;
     border-radius: 20px;
-    padding: 20px;
     cursor: pointer;
 }
 
