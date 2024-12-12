@@ -6,6 +6,13 @@ function fadeOut()
 }
  setTimeout(fadeOut, 3000); 
 
+function displayNone()
+{
+    loader.style.display = 'none';
+}
+
+setTimeout(displayNone, 4500);
+
 // window.addEventListener('load', function(){
 //     loader.classList.add('fadeOut');
 // })
