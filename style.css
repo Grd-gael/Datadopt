@@ -543,6 +543,8 @@ svg.transition-nuage{
     justify-content: center;
     align-items: center;
     transition: all 0.3s;
+    border: var(--darkblue) solid 2px;
+    border-top: none;
   }
 
 .res-age{
