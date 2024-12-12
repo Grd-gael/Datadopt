@@ -2,6 +2,7 @@ const labels = document.querySelectorAll('.section3 .label')
 const values = document.querySelectorAll('.section3 .value')
 const rects = document.querySelectorAll('.section3 rect')
 const total = document.querySelector('.nb_adoptions')
+const rectImg = document.querySelector('.podium-img')
 let dataPodium
 
 function getPodium(data, annee) {

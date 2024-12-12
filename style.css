@@ -134,7 +134,7 @@ p{
 }
 
 .lien-sources:hover{
-    color: var(--purple);
+    color: var(--lightpurple);
 }
 
 @media screen and (max-width: 950px){
@@ -238,7 +238,6 @@ input[type=range] {
     background: var(--lightblue);
     cursor: pointer;
     -webkit-appearance: none;
-    margin-top: -21px;
   }
   input[type=range]:focus::-webkit-slider-runnable-track {
     background: var(--lightblue);
@@ -586,6 +585,10 @@ svg.transition-nuage{
 .section3 rect {
     fill: var(--lightblue);
     transform-origin: bottom;
+}
+
+.podium-img{
+    transform: scale(3.33, 2);
 }
 
 .label {
