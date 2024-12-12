@@ -237,8 +237,9 @@ input[type=range] {
     border-radius: 20px;
     background: var(--lightblue);
     cursor: pointer;
-    -webkit-appearance: none;
-  }
+    transform: scale(1, 2);
+}
+
   input[type=range]:focus::-webkit-slider-runnable-track {
     background: var(--lightblue);
   }
