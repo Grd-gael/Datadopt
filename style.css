@@ -1126,6 +1126,51 @@ button {
     text-decoration: underline;
 }
 
+@media screen and (max-width: 950px) {
+    .titles > h1 {
+        font-size: 3rem;
+    }
+
+    .p-mentions {
+        width: 50vw;
+        font-size: 1rem;
+    }
+
+    .titres-mentions {
+        font-size: 2rem;
+    }
+
+    .mentions-legales {
+        height: 400vh;
+    }
+
+    .sources {
+        height: 200vh;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .titles > h1 {
+        font-size: 2rem;
+    }
+
+    .p-mentions {
+        width: 60vw;
+        font-size: 0.8rem;
+    }
+
+    .titres-mentions {
+        font-size: 1.5rem;
+    }
+
+    .mentions-legales {
+        height: 400vh;
+    }
+
+    .sources {
+        height: 300vh;
+    }
+}
 
 /* ---- Footer ---- */
 
