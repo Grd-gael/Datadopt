@@ -119,6 +119,7 @@ p{
     font-family: "Metrophobic", sans-serif;
     font-weight: 400;
     font-style: normal; 
+    font-size: 1rem;
 }
 
 .lien-sources{
@@ -460,7 +461,7 @@ svg.transition-nuage{
     font-family: "Metrophobic", sans-serif;
     font-weight: 400;
     font-style: normal;
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     color: var(--white);
     max-width: 50vw;
     line-height: 2.2rem;
@@ -562,6 +563,18 @@ svg.transition-nuage{
     border-radius: 20px;
 }
 
+@media screen and (max-width: 1200px){
+    .analyse-age{
+        width: 70vw;
+        font-size: 1.2rem;
+    }    
+}
+@media screen and (max-width: 700px){
+    .analyse-age{
+        width: 70vw;
+        font-size: 0.8rem;
+    }    
+}
 /* ---- Graphique 3 ---- */
 
 .section3 {
