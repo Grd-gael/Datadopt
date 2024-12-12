@@ -71,7 +71,8 @@
       <p class="p-section1">
          <span class="section1-indication"><b>(Déplacez le curseur en bas de votre écran)</b></span><br> <br>
          <span class="section1-number">X</span><br>
-         C'est le nombre d'enfants adoptés en France métropolitaine en <br><span class="section1-year current-year">X </span>. <br>
+         C'est le nombre d'enfants adoptés en France métropolitaine en <br><span class="section1-year current-year">X
+         </span>. <br>
          <br><b></b>
          Découvrons ensemble d'autres chiffres sur l'adoption en France et dans le monde !
       </p>
@@ -522,7 +523,8 @@
 
    <section class="section2">
       <div class="graphe-age">
-         <h2 class="h2-section2">Nombre d’adoptions dans l’année <span class="current-year">X</span> en France, selon l’age
+         <h2 class="h2-section2">Nombre d’adoptions dans l’année <span class="current-year">X</span> en France, selon
+            l’age
             de l’enfant</h2>
          <div class="flex">
             <svg width="103" height="395" viewBox="0 0 103 395" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -562,8 +564,6 @@
             adoptions d’enfants plus âgés.</b></p>
    </section>
 
-
-
    <section class="section3">
       <h2>Les trois pays dans lesquels les français ont le plus adopté en <span class="current-year"></span></h2>
       <div class="wrapper">
@@ -573,7 +573,7 @@
                <rect x="0" y="175" height="225" width="200" />
                <image class="podium-img" href="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langfr-225px-Flag_of_France.svg.png" x="0" y="175" height="40" width="100" />
                <text x="100" y="200" text-anchor="middle" class="value"></text>
-               
+
                <text x="350" y="50" text-anchor="middle" class="label"></text>
                <rect x="250" y="75" height="325" width="200" />
                <image href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAACWCAMAAAAfSh8xAAAACVBMVEX///8AOabVKx69XQKiAAAAjElEQVR4nO3PAQEAIAzAoGv/0ObYhQbMAAAAAAAAAAAAAACrnO0M+wz7DPsM+wz7DPsM+wz7DPsM+wz7DPsM+wz7DPsM+wz7DPsM+wz7DPsM+wz7DPs+GN7tDPsM+wz7DPsM+wz7DPsM+wz7DPsM+wz7DPsM+wz7DPsM+wz7DPsM+wz7DPsM+wz79g8fD72D16gUr14AAAAASUVORK5CYII=" x="250" y="75" height="325" width="200" class="img-podium-milieu" />
@@ -589,23 +589,70 @@
          </p>
       </div>
    </section>
+
    <a href="sources.html" class="lien-sources">Lien vers les Sources | source n°3</a>
 
-   <section class="section4">
-      <h2><span id="texte">Top 10 des pays qui ont effectué le plus d'adoptions dans le monde en </span><span
-            class='current-year'></span></h2>
+   <div class="info_podium">
+      <p>L’origine des enfants adoptés en France varie selon les années, cependant en moyenne le top 3 recurent, depuis
+         1979, est:
+         <br>
+         Le Vietnam avec un record de 1393 enfants adoptés en 1996.
+         <br>
+         Le Bresil avec un record de 683 enfants adoptés en 1990.
+         <br>
+         La Colombie avec un record de 392 enfants adoptés en 2001.
+      </p>
+   </div>
 
-      <div class="graph">
-         <svg id="chart" height="350" width="800" viewBox="0 0 800 350">
-         </svg>
 
-         <div class="buttons">
-            <button id="acc">Pays d'accueil</button>
-            <button id="ori">Pays d'origine</button>
-         </div>
+   <div class="bg-planetes">
+      <div class="etoiles">
+         <h1 class="international">Et à l'international ?</h1>
+         <section class="section4">
+            <h2><span id="texte">Top 10 des pays qui ont effectué le plus d'adoptions dans le monde en </span><span
+                  class='current-year'></span></h2>
+            <div class="graph">
+               <svg id="chart" height="350" width="750" viewBox="0 0 750 350">
+               </svg>
+               <div class="buttons">
+                  <button id="acc">Pays d'accueil</button>
+                  <button id="ori">Pays d'origine</button>
+               </div>
+            </div>
+         </section>
       </div>
-   </section>
-   <a href="sources.html" class="lien-sources">Lien vers les Sources | source n°3</a>
+      <a href="sources.html" class="lien-sources">Lien vers les Sources | source n°3</a>
+      <div class="info-international">
+         <p>
+            Les trois principaux pays du monde réalisant le plus d’adoptions sont souvent les mêmes tous les ans, avec :
+            <br>
+            Les États-Unis,
+            avec 187 578 adoptions réalisées entre 2001 et 2022.
+            <br>
+            L’Italie,
+            avec 47 287 adoptions réalisées entre 2001 et 2022.
+            <br>
+            L’Espagne,
+            avec 37 688 adoptions réalisées entre 2001 et 2022.
+         </p>
+      </div>
+
+      <div class="conclusion">
+         <p>
+            Toutes ces données nous montrent que, autant à échelle nationale que internationale, les chiffres de
+            l’adoption
+            baissent et laissent de nombreux enfants dans l’attente d’une famille. En France, les démarches sont longues
+            et
+            fastidieuses ce qui ne sert pas la cause de l’adoption infantile.
+         </p>
+         <p>
+            Il est nécessaire que l’adoption devienne accessible à tous pour devenir un moyen courant d’avoir des
+            enfants.
+         </p>
+      </div>
+   </div>
+
+
    <script src=" https://cdn.jsdelivr.net/npm/chart.js@4.4.6/dist/chart.umd.min.js "></script>
    <script src="graph4.js"></script>
    <script src="graph3.js"></script>

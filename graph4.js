@@ -127,6 +127,17 @@ buttonAcc.addEventListener("click", function (e) {
   dataSet = donneesAdoptionAccueil
   currentData = getDataSet10(dataSet, slider.value);
   texte.innerHTML = "Top 10 des pays ayant effectué le plus d'adoptions dans le monde en "
+  document.querySelector('.info-international p').innerHTML = `Les trois principaux pays du monde réalisant le plus d’adoptions sont souvent les mêmes tous les ans, avec :
+  <br>
+Les États-Unis, 
+avec 187 578 adoptions réalisées entre 2001 et 2022. 
+<br>
+L’Italie,
+avec 47 287 adoptions réalisées entre 2001 et 2022. 
+<br>
+L’Espagne,
+avec 37 688 adoptions réalisées entre 2001 et 2022. 
+`
 
   output = document.querySelector(".current-year");
   output.innerHTML = slider.value;
@@ -147,6 +158,17 @@ document.getElementById("ori").addEventListener("click", function (e) {
   dataSet = donneesAdoptionOrigine
   currentData = getDataSet10(dataSet, slider.value);
   texte.innerHTML = "Top 10 des pays d'origine des enfants adoptés dans le monde en "
+  document.querySelector('.info-international p').innerHTML = `L’origine des enfants adoptés dans le monde varie selon les années, cependant le top 3 récurrent
+         est:
+         <br>
+         La Chine,
+         avec 89 662 enfants originaires de ce pays adoptés entre 2004 et 2022.
+         <br>
+         La Russie,
+         avec 51 690 enfants originaires de ce pays adoptés entre 2004 et 2022.
+         <br>
+         L’Ethiopie,
+         avec 32 445 enfants originaires de ce pays adoptés entre 2004 et 2022.`
 
   output = document.querySelector(".current-year");
   output.innerHTML = slider.value;
