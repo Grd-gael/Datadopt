@@ -591,6 +591,10 @@ svg.transition-nuage{
     transform-origin: bottom;
 }
 
+.poidum-img{
+    transform: scale(2);
+}
+
 .label {
     font-family: 'Kodchasan';
     font-size: large;
