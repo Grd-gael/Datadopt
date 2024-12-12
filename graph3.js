@@ -13,8 +13,8 @@ function getPodium(data, annee) {
         .filter(item => !isNaN(item.nb))
         .sort((a, b) => b.nb - a.nb)
         .slice(0, 3);
-    let tmp = traitement.pop()
-    traitement.unshift(tmp)
+    let tmp = traitement.shift()
+    traitement.splice(1,0,tmp)
     console.log(traitement)
     return traitement
 }

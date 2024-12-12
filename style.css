@@ -555,9 +555,14 @@ svg.transition-nuage{
     transform-origin: bottom;
 }
 
+.label {
+    font-family: 'Kodchasan';
+    font-size: large;
+    fill: var(--darkblue);
+}
+
 .section3 .label {
-    font-weight: bolder;
-    font-size: larger;
+    font-weight: bold;
 }
 
 .section3 .wrapper {
