@@ -127,10 +127,14 @@ p{
     font-weight: 400;
     font-style: normal; 
     text-decoration: underline;
+    color: var(--darkblue);
+    padding: 15px;
+    margin: auto;
+    float: right;
+}
+
+.lien-sources.clair {
     color: var(--ivoire);
-    position: relative;
-    bottom: 150px;
-    left: 200px;
 }
 
 .lien-sources:hover{
@@ -615,7 +619,7 @@ svg.transition-nuage{
     flex-wrap: wrap-reverse;
 }
 
-.section3 p {
+.section3 .txt-total {
     width: 250px;
     text-align: center;
     font-size: larger;
@@ -666,6 +670,7 @@ text {
     border-radius: 25px;
     position: absolute;
     bottom: -20px;
+    border: solid white 2px;
 }
 
 button {
@@ -682,7 +687,7 @@ button {
 }
 
 .etoiles {
-    padding-top: 225px;
+    padding-top: 250px;
     background-image: url(img/etoiles.png);
     background-repeat: no-repeat;
     background-size: 500px;
@@ -703,6 +708,12 @@ button {
     background-color: var(--blue);
     margin-left: auto;
     max-width: 700px;
+    height: 400px;
+    display: flex;
+}
+
+.info-international>p {
+    margin: auto;
 }
 
 /*--- Fin ---*/
@@ -711,12 +722,7 @@ button {
     padding: 50px;
     background-color: var(--purple);
     max-width: 700px;
-    margin: 200px auto;
-}
-
-.container {
-    height: 40vmax;
-    position: relative;
+    margin: 150px auto;
 }
 
 /* ---- Chargement ---- */
