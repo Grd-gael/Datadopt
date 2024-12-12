@@ -208,7 +208,7 @@ ButtonAddAge.addEventListener('click', () => {
     ButtonSubstractAge.style.color = "var(--darkblue)";
     ButtonSubstractAge.classList.add('btn-active');
     Age++;
-    Enfant.setAttribute('src', '/img/graph2/' + Age + '.png')
+    Enfant.setAttribute('src', 'img/graph2/' + Age + '.png')
     AfficheAge.innerHTML = Age + " ans";
     if (Age == 0) {
         AfficheAge.innerHTML = "6 à 12 mois";
@@ -232,7 +232,7 @@ ButtonSubstractAge.addEventListener('click', () => {
     ButtonAddAge.style.color = "var(--darkblue)";
     ButtonAddAge.classList.add('btn-active');
     Age--;
-    Enfant.setAttribute('src', '/img/graph2/' + Age + '.png')
+    Enfant.setAttribute('src', 'img/graph2/' + Age + '.png')
     AfficheAge.innerHTML = Age + " ans";
     if (Age == 0) {
         AfficheAge.innerHTML = "6 à 12 mois";
