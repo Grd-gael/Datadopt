@@ -314,6 +314,9 @@ input[type=range] {
     justify-content: center;
     align-items: center;
     border: 1px solid var(--ivoire);
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
 }
 
 
