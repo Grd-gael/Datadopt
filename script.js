@@ -259,6 +259,7 @@ function UpdateGraphe2(dataAge) {
         if (age.id_age_enfant === Age) {
             const gradientHeight = Math.min(100, (age[CurrentYear] / 100) * 100);
             AdopParAge.innerHTML = age[CurrentYear];
+            Enfant.style.filter = 'saturate(' + gradientHeight + '%)';
         }
     });
 };
