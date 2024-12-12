@@ -562,8 +562,8 @@ svg.transition-nuage {
 }
 
 .gradient-circle {
-    width: 400px;
-    height: 400px;
+    width: 200px;
+    height: 200px;
     border-radius: 50%;
     background: rgb(255, 255, 255);
     background: linear-gradient(180deg, rgba(255, 255, 255, 1) 35%, rgba(151, 71, 255, 1) 100%);
@@ -678,7 +678,7 @@ svg.transition-nuage {
 .section4 {
     background-color: white;
     max-width: 1106px;
-    margin: auto auto 100px auto;
+    margin: auto auto 0 auto;
     border-radius: 120px;
     position: relative;
 }

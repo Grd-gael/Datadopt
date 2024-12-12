@@ -183,9 +183,18 @@ Departement.forEach(departement => {
 });
 
 // Graphique 2
+const ButtonAddAge = document.getElementById('add');
+const ButtonSubstractAge = document.getElementById('substract');
+const AfficheAge = document.getElementById('affiche-age');
+const Enfant = document.getElementById('enfant');
+let EnfantHeight = parseInt(Enfant.getAttribute('height'));
+
+let Age = -1;
+
 
 fetch('data-age.json').then(response => response.json()).then(function (data) {
     DataAge = data;
+    Enfant.setAttribute('height',EnfantHeight+25*Age)
     AfficheAge.innerHTML = "0 à 6 mois";
     ButtonSubstractAge.disabled = true;
     ButtonSubstractAge.style.backgroundColor = "var(--darkblue)";
@@ -194,11 +203,7 @@ fetch('data-age.json').then(response => response.json()).then(function (data) {
 });
 
 
-const ButtonAddAge = document.getElementById('add');
-const ButtonSubstractAge = document.getElementById('substract');
-const AfficheAge = document.getElementById('affiche-age');
 
-let Age = -1;
 
 ButtonAddAge.addEventListener('click', () => {
     ButtonSubstractAge.disabled = false;
@@ -206,10 +211,11 @@ ButtonAddAge.addEventListener('click', () => {
     ButtonSubstractAge.style.color = "var(--darkblue)";
     ButtonSubstractAge.classList.add('btn-active');
     Age++;
-    console.log(Age);
+    Enfant.setAttribute('height',Age*25+EnfantHeight)
     AfficheAge.innerHTML = Age + " ans";
     if (Age == 0) {
         AfficheAge.innerHTML = "6 à 12 mois";
+        
     }
     if (Age == 5) {
         AfficheAge.innerHTML = "5 et 6 ans";
@@ -230,7 +236,7 @@ ButtonSubstractAge.addEventListener('click', () => {
     ButtonAddAge.style.color = "var(--darkblue)";
     ButtonAddAge.classList.add('btn-active');
     Age--;
-    console.log(Age);
+    Enfant.setAttribute('height',EnfantHeight+Age*25)
     AfficheAge.innerHTML = Age + " ans";
     if (Age == 0) {
         AfficheAge.innerHTML = "6 à 12 mois";
