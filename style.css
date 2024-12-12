@@ -1088,6 +1088,7 @@ button {
     font-style: normal;
     font-size: 3rem;
     color: var(--white);
+    min-width: 400px;
 }
 
 .p-mentions {
