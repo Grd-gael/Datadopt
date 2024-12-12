@@ -2,7 +2,9 @@ const labels = document.querySelectorAll('.section3 .label')
 const values = document.querySelectorAll('.section3 .value')
 const rects = document.querySelectorAll('.section3 rect')
 const total = document.querySelector('.nb_adoptions')
-const rectImg = document.querySelector('.podium-img')
+const podImg1 = document.querySelector('.podium1')
+const podImg2 = document.querySelector('.podium2')
+const podImg3 = document.querySelector('.podium3')
 let dataPodium
 
 function getPodium(data, annee) {
@@ -15,8 +17,8 @@ function getPodium(data, annee) {
         .sort((a, b) => b.nb - a.nb)
         .slice(0, 3);
     let tmp = traitement.shift()
-    traitement.splice(1,0,tmp)
-    console.log(traitement)
+    traitement.splice(1, 0, tmp)
+    // console.log(traitement)
     return traitement
 }
 
@@ -49,18 +51,72 @@ fetch('adoption-1979-2022-origine-par-pays.json').then(response => {
         dataPodium = data
         displayData(data)
         total.innerHTML = totalAdoptions(data)
+        updateDrapeaux();
     })
 })
 
 slider.addEventListener('input', function (e) {
     displayData(dataPodium)
     total.innerHTML = totalAdoptions(dataPodium)
+    updateDrapeaux();
 })
 
 
-fetch('data-drapeaux.json').then(response => {
-    response.json().then(function (data) {
-        dataDrapeaux = data
-        
+const countries = [
+    {
+        "name": "Éthiopie",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg"
+    },
+    {
+        "name": "Russie",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg"
+    },
+    {
+        "name": "Chine",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg"
+    },
+    {
+        "name": "Vietnam",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg"
+    },
+    {
+        "name": "Colombie",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg"
+    },
+    {
+        "name": "Côte d'ivoire",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg"
+    },
+    {
+        "name": "Haiti",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Haiti.svg"
+    },
+    {
+        "name": "Rep. Dem. Congo",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg"
+    },
+    {
+        "name": "Thailande",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg"
+    },
+    {
+        "name": "Congo",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_the_Republic_of_the_Congo.svg"
+    },
+    {
+        "name": "Madagascar",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg"
+    }
+];
+
+function updateDrapeaux() {
+    let podium = getPodium(dataPodium, slider.value)
+    let n = 0
+    let podImgs = [podImg1, podImg2, podImg3]
+    podium.forEach((rect, index) => {
+        const country = countries.find(c => c.name === rect.pays);
+        if (country) {
+            podImgs[index].setAttribute('href', country.flag);
+        }
     })
-})
+}
