@@ -530,7 +530,8 @@ svg.transition-nuage {
 .flex {
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: center;
+    gap: 20px;
     align-items: center;
     height: 70vh;
     width: 80vw;
@@ -561,20 +562,6 @@ svg.transition-nuage {
     border: var(--darkblue) solid 2px;
 }
 
-.gradient-circle {
-    width: 200px;
-    height: 200px;
-    border-radius: 50%;
-    background: rgb(255, 255, 255);
-    background: linear-gradient(180deg, rgba(255, 255, 255, 1) 35%, rgba(151, 71, 255, 1) 100%);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    transition: all 0.3s;
-    border: var(--darkblue) solid 2px;
-    border-top: none;
-  }
-
 .res-age {
     font-family: "Metrophobic", sans-serif;
     font-weight: 400;
@@ -585,6 +572,12 @@ svg.transition-nuage {
     text-align: center;
 }
 
+.img-enfant {
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
 .analyse-age {
     position: relative;
