@@ -84,7 +84,7 @@ const countries = [
         "flag": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg"
     },
     {
-        "name": "Cote d'Ivoire",
+        "name": "Côte d'ivoire",
         "flag": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg"
     },
     {
