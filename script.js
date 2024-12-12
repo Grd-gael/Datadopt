@@ -185,14 +185,13 @@ const ButtonAddAge = document.getElementById('add');
 const ButtonSubstractAge = document.getElementById('substract');
 const AfficheAge = document.getElementById('affiche-age');
 const Enfant = document.getElementById('enfant');
-let EnfantHeight = parseInt(Enfant.getAttribute('height'));
 
 let Age = -1;
 
 
 fetch('data-age.json').then(response => response.json()).then(function (data) {
     DataAge = data;
-    Enfant.setAttribute('height', EnfantHeight + 25 * Age)
+    Enfant.setAttribute('src', '/img/graph2/-1.png')
     AfficheAge.innerHTML = "0 à 6 mois";
     ButtonSubstractAge.disabled = true;
     ButtonSubstractAge.style.backgroundColor = "var(--darkblue)";
@@ -209,11 +208,10 @@ ButtonAddAge.addEventListener('click', () => {
     ButtonSubstractAge.style.color = "var(--darkblue)";
     ButtonSubstractAge.classList.add('btn-active');
     Age++;
-    Enfant.setAttribute('height', Age * 25 + EnfantHeight)
+    Enfant.setAttribute('src', '/img/graph2/' + Age + '.png')
     AfficheAge.innerHTML = Age + " ans";
     if (Age == 0) {
         AfficheAge.innerHTML = "6 à 12 mois";
-
     }
     if (Age == 5) {
         AfficheAge.innerHTML = "5 et 6 ans";
@@ -234,7 +232,7 @@ ButtonSubstractAge.addEventListener('click', () => {
     ButtonAddAge.style.color = "var(--darkblue)";
     ButtonAddAge.classList.add('btn-active');
     Age--;
-    Enfant.setAttribute('height', EnfantHeight + Age * 25)
+    Enfant.setAttribute('src', '/img/graph2/' + Age + '.png')
     AfficheAge.innerHTML = Age + " ans";
     if (Age == 0) {
         AfficheAge.innerHTML = "6 à 12 mois";
@@ -253,7 +251,6 @@ ButtonSubstractAge.addEventListener('click', () => {
 });
 
 const AdopParAge = document.getElementById('adop-par-age');
-const gradientCircle = document.querySelector('.gradient-circle');
 
 function UpdateGraphe2(dataAge) {
     // if (dataAge.find(age => age.id_age_enfant === Age)) {
@@ -263,7 +260,6 @@ function UpdateGraphe2(dataAge) {
         if (age.id_age_enfant === Age) {
             const gradientHeight = Math.min(100, (age[CurrentYear] / 100) * 100);
             AdopParAge.innerHTML = age[CurrentYear];
-            gradientCircle.style.background = `linear-gradient(180deg,rgba(255, 255, 255, 1) ${100 - gradientHeight}%,var(--blue) 100%)`;
         }
     });
 };

@@ -530,7 +530,8 @@ svg.transition-nuage {
 .flex {
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: center;
+    gap: 20px;
     align-items: center;
     height: 70vh;
     width: 80vw;
@@ -547,33 +548,18 @@ svg.transition-nuage {
 
 .btn-age {
     font-size: 3rem;
-    height: 60px;
-    width: 60px;
+    height: 64px;
+    width: 64px;
     background-color: var(--lightblue);
     border: none;
     text-align: center;
     border-radius: 20px;
-    padding: 20px;
     cursor: pointer;
 }
 
 .btn-active:hover {
     border: var(--darkblue) solid 2px;
 }
-
-.gradient-circle {
-    width: 200px;
-    height: 200px;
-    border-radius: 50%;
-    background: rgb(255, 255, 255);
-    background: linear-gradient(180deg, rgba(255, 255, 255, 1) 35%, rgba(151, 71, 255, 1) 100%);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    transition: all 0.3s;
-    border: var(--darkblue) solid 2px;
-    border-top: none;
-  }
 
 .res-age {
     font-family: "Metrophobic", sans-serif;
@@ -585,6 +571,12 @@ svg.transition-nuage {
     text-align: center;
 }
 
+.img-enfant {
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
 .analyse-age {
     position: relative;
