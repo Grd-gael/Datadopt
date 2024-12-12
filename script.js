@@ -1,10 +1,10 @@
-// const loader = document.querySelector('.loader');
+const loader = document.querySelector('.loader');
 
-// function fadeOut()
-// {
-//     loader.classList.add('fadeOut');
-// }
-//  setTimeout(fadeOut, 3000); 
+function fadeOut()
+{
+    loader.classList.add('fadeOut');
+}
+ setTimeout(fadeOut, 3000); 
 
 // window.addEventListener('load', function(){
 //     loader.classList.add('fadeOut');

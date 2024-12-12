@@ -56,6 +56,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: var(--darkblue);
+    overflow-x: hidden;
 }
 
 
@@ -350,8 +351,7 @@ span.section1-year{
 }
 
 svg.transition-nuage{
-    width: 100vw;
-
+    width: 100%;
 }
 
 
@@ -468,6 +468,7 @@ svg.transition-nuage{
 .section2{
     margin-top: 30vh;
     height: 200vh;
+    width: 100%;
     background-image: url(img/fond-toit.svg);
     background-size: cover;
     background-position: -20px;
